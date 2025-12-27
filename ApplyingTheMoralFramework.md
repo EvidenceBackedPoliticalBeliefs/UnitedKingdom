@@ -47,7 +47,7 @@ If we look at the legal systems of any society however, we find that this is pre
 There is no reason to suppose that we can't do that ahead of time when talking about the likely negative and positive outcomes of policy decisions at a statistical level.
 
 # What about in *this* situation?
-There will always be individuals, sufficiently harmed by a policy - that if looked at in isolation we would have the desire to change policy. These outliers have to be balanced against the positive well-being against society as a whole. 
+There will always be individuals, sufficiently harmed by a policy - that if looked at in isolation we would have the desire to change policy. These outliers have to be balanced against the positive well-being of society as a whole. 
 
 Our goal is to maximise *overall wellbeing*, and if the nature of a policy is such that it raise everyone's wellbeing collectively by the same amount then that is the ideal. 
 

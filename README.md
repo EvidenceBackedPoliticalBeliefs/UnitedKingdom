@@ -132,10 +132,12 @@ moral_actions:
   - source: "Present moment"
     target: "Man Lives"
     label: "Choose to Help"
+    color: green
 
   - source: "Present moment"
     target: "Man Dies"
     label: "Do nothing"
+    color: red
 
 render:
   output_file: "homeless_scenario1.png"

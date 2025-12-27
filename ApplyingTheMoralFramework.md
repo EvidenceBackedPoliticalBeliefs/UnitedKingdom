@@ -58,11 +58,11 @@ The alternative is to neglect the majority for the sake of a minority.
 ## Example
 As a society we have decided that the physical and psychological harm of murder is too great to tolerate. As such we have created a law (policy) that states that no individual may commit unprovoked murder. 
 
-Imagine those who are born with a neural defect. This defect causes one and only one desire above all else: the desire to murder as many people as possible. 
+Imagine those who are born with a neural defect. This defect causes one and only one desire above all else: the desire to murder as many people as possible.[^2]
 
 We have intentionally reduced their wellbeing for the sake of the majority. These people had no control over the fact they were born with homicidal desires. They will never go fulfilled, and will live life in a state of psychological torment.
 
-No one will argue in this situation that the needs of the many should be foregone to benefit this small minority. But on very similar moral arithmetic problems, people come to all sorts of bizarre conclusions.
+No one will argue in this situation that the needs of the many should be sacrificed to benefit this small minority. But on very similar moral arithmetic problems, people come to all sorts of bizarre conclusions. This is a testament to the power of the individual over statistics, to the evolutionary moral heuristics.
 
 # Policy abuse
 While we don't want to be unduly bound by the smallest edge case when making generalised policy decisions, there is a class of edge cases that *must* be considered. These revolve around abuse of the system. By looking only (or mostly) in generalities we open ourselves up to the possibility of abuse by bad actors. 
@@ -142,3 +142,5 @@ render:
 </details>
 
 We can see that by implementing this policy decision, those responsible thought they were ascending to a new peak on the landscape, they instead fell directly into a trough. It is also foreseeable that a different policy could have even more drastic outcomes, for example total ecological collapse.
+
+[^2]: This is not necessarily the cause of all murderers choosing to murder, it is simply an example to illustrate the point.

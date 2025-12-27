@@ -75,7 +75,7 @@ While we don't want to be unduly bound by the smallest edge case when making gen
 Logically it can be predicted that: 
 
 - Given a population with some people who are selfish
-- When an avenue is provided that will allow the selfish to gain, they will take it
+- When an opportunity is provided that will allow the selfish to gain, they will take it
 - If that selfish act causes societal harm (i.e. [external costs](https://en.wikipedia.org/wiki/Externality)), the aggregate wellbeing of the society will have gone down.
 - The abuse is not self limiting, it will continue until the system collapses or there is a change of policy.
 

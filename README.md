@@ -217,7 +217,7 @@ Below are some common concerns about the above basis for morality that I have se
 
 It is very hard to imagine a scenario where the negative outcome of the genocide of a people could be outweighed by the positive improvement of others.
 
-Given that our goal is to derive the positive most likely positive outcome for the greatest number of humans, genocide would be very hard to justify. Hard but not impossible.
+Given that our goal is to derive the most likely positive outcome for the greatest number of humans, genocide would be very hard to justify. Hard but not impossible.
 
 Looking at an example that is less tied to emotion and human history, it becomes clear that we make these moral calculations all the time.
 

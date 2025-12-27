@@ -492,8 +492,8 @@ class MoralLandscapeProcessor:
             # Plot configuration
             title = landscape_config.get('title', 'Moral Landscape')
             axes = landscape_config.get('axes', {})
-            xlabel = axes.get('xlabel', 'Action Dimension 1')
-            ylabel = axes.get('ylabel', 'Action Dimension 2')
+            xlabel = axes.get('xlabel', '')
+            ylabel = axes.get('ylabel', '')
             zlabel = axes.get('zlabel', 'Moral Value')
             
             style = landscape_config.get('style', {})
@@ -509,6 +509,14 @@ class MoralLandscapeProcessor:
                 colormap=colormap,
                 figsize=figsize
             )
+            
+            # Hide axis tick labels if the axis label is empty string
+            if xlabel == '':
+                landscape.ax.set_xticklabels([])
+            if ylabel == '':
+                landscape.ax.set_yticklabels([])
+            if zlabel == '':
+                landscape.ax.set_zticklabels([])
             
             # Add labels for peaks
             for peak in peaks_config:

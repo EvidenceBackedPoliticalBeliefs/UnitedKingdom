@@ -1,5 +1,5 @@
 # Bias Busting
-Given the brain is so loaded with cognitive biases and so easily influenced by logical fallacies, we need a set of techniques that we can use to help highlight these when evaluating moral arguments. I have assembled a list of techniques that I try to use to break free from the prison of my own biological mind. They are merely tools to provoke thought, and are situationally dependent.
+Given the brain is so loaded with cognitive biases and so easily influenced by logical fallacies, we need a set of techniques that we can use to help highlight these when evaluating moral arguments. I have assembled a list of techniques that may be used to attempt to compensate. They are merely tools to provoke thought, and many are situationally dependent.
 
 ## Reacting emotionally
  Do I feel an emotional reaction in response to hearing an opinion, or policy suggestion. An example of the feeling you need to look for is the feeling you might get by reading something like 

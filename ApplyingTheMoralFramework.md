@@ -53,7 +53,10 @@ Our goal is to maximise *overall wellbeing*, and if the nature of a policy is su
 
 If it is such that the *best* policy we can design disadvantages 1% of the population in some way, but benefits the remainder substantially. We must apply that policy.
 
-The alternative is to neglect the majority for the sake of a minority. For example, as a society we have decided that the physical and psychological harm of murder is too great to tolerate. As such we have created a law (policy) that states that no individual may commit unprovoked murder. 
+The alternative is to neglect the majority for the sake of a minority. 
+
+## Example
+As a society we have decided that the physical and psychological harm of murder is too great to tolerate. As such we have created a law (policy) that states that no individual may commit unprovoked murder. 
 
 Imagine those who are born with a neural defect. This defect causes one and only one desire above all else: the desire to murder as many people as possible. 
 

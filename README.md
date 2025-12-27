@@ -98,7 +98,7 @@ If a man is starving and hypothermic, we know that there is an almost guaranteed
 
 With these premises in mind we can model reality as a landscape, with peaks and troughs. We can traverse the landscape by taking actions. This could lead us in a positive (higher in elevation), negative (lower in elevation), or neutral direction.
 
-### Visualizing the Moral Landscape
+### Visualising the Moral Landscape
 We can represent this homeless scenario on the moral landscape like so.
 
 
@@ -150,7 +150,7 @@ I will refer to this representation as a *moral graph*.
 From this example we can see that *inaction* is a morally salient act. We cannot assume that to take no action is morally neutral[^14]. This is frequently not the case.
 
 ### Adding knowledge can make the same action morally opposite
-Importantly we can see that it is *almost* guaranteed that feeding and sheltering the homeless man is morally positive. For if that man was a serial killer, intent on murdering innocent people, the moral action may be that we leave him there to die.
+Importantly we can see that it is *almost* guaranteed that feeding and sheltering the homeless man is morally positive, but not for certain. For if that man was a serial killer, intent on murdering innocent people, the moral action may be that we leave him there to die.
 
 
 ![homeless_scenario.png](images/homeless_scenario.png)

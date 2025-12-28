@@ -208,7 +208,7 @@ Think back, have there been any points made by your opponent that you have no an
 > — Karl Popper
 
 
-# Reductio ad Hitlerum (i.e. Hitler did this therefore it must be morally wrong)
+## Reductio ad Hitlerum (i.e. Hitler did this therefore it must be morally wrong)
 [Hitler](https://en.wikipedia.org/wiki/Reductio_ad_Hitlerum) having done or not done something, has no bearing on if that policy is morally good or not.
 
 Here are some policies that Hitler introduced in Germany
@@ -222,3 +222,31 @@ Just because Hitler implemented pensions does not mean that if you want to imple
 Evaluate why you feel the need to bring up Hitler in a rational discussion of the pros and cons of a policy decision. Do you have any non-fallacious arguments you can use?
 
 [^1]: These were racially discriminatory in the Nazi implementation, but putting that aside for the sake of argument.
+
+## False dilemma (if you're not with us, you're against us)
+Very few problems in life can be solved in one of only two ways. A [false dilemma](https://en.wikipedia.org/wiki/False_dilemma) (or false dichotomy) is when an argument is presented as:
+
+> Are you in favour of racism or do you believe in open borders?
+
+This is a contrived example to show the point. But similar arguments are made frequently, especially on "gotcha" type interviews. This is also an example of a [leading question](https://en.wikipedia.org/wiki/Leading_question)
+
+The fallacy is in the fact there are many immigration policies one can logically adopt, and being opposed to open borders, does not necessitate one be in favour of racial discrimination.
+
+Other common political examples
+
+> Do you believe trans people should be allowed in women's spaces or do you want them dead?
+
+> Are you in favour of mass surveilance or do you want rampant terrorism?
+
+> Do you advocate for capitalism or socialism?
+
+The false dilemma attempts to compress a range of possible options into a simple binary choice, when in most cases there are ranges, spectrums, compromises, or hybrid approaches which could also be considered. 
+
+If you see someone present a dichotomous question to someone in an interview ask yourself if that is a false dilemma? Does it highlight the interviewer's biases or preference?
+
+If you are formulating the question, try to reframe to allow for a wider range of answers.
+
+> To what degree do you believe mass surveillance would reduce terrorism? If at all? Are there other policies we could implement to achieve the same result?
+
+> Under what conditions and to what extent should we embrace socialism? What about capitalism?
+

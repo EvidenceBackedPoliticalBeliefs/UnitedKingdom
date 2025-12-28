@@ -199,6 +199,11 @@ class MoralLandscapeProcessor:
                                 errors.append("'landscape.style.figsize' must be an array with exactly 2 integers")
                             elif not all(isinstance(x, int) for x in figsize):
                                 errors.append("'landscape.style.figsize' must contain only integers")
+                        if 'label_fontsize' in landscape['style']:
+                            if not isinstance(landscape['style']['label_fontsize'], int):
+                                errors.append("'landscape.style.label_fontsize' must be an integer")
+                            elif landscape['style']['label_fontsize'] < 1:
+                                errors.append("'landscape.style.label_fontsize' must be at least 1")
         
         # Validate peaks
         if 'peaks' in config:
@@ -220,10 +225,9 @@ class MoralLandscapeProcessor:
                         elif not all(isinstance(x, (int, float)) for x in coords):
                             errors.append(f"peaks[{i}].coords must contain only numbers")
                     
-                    if 'label' not in peak:
-                        errors.append(f"peaks[{i}] is missing required field 'label'")
-                    elif not isinstance(peak['label'], str):
-                        errors.append(f"peaks[{i}].label must be a string")
+                    # Optional label field
+                    if 'label' in peak and peak['label'] is not None and not isinstance(peak['label'], str):
+                        errors.append(f"peaks[{i}].label must be a string if specified")
                     
                     # Optional fields
                     if 'type' in peak and peak['type'] not in [None, 'peak']:
@@ -239,6 +243,12 @@ class MoralLandscapeProcessor:
                     if 'z_index' in peak:
                         if not isinstance(peak['z_index'], int):
                             errors.append(f"peaks[{i}].z_index must be an integer")
+                    
+                    if 'fontsize' in peak:
+                        if not isinstance(peak['fontsize'], int):
+                            errors.append(f"peaks[{i}].fontsize must be an integer")
+                        elif peak['fontsize'] < 1:
+                            errors.append(f"peaks[{i}].fontsize must be at least 1")
         
         # Validate troughs
         if 'troughs' in config:
@@ -260,10 +270,9 @@ class MoralLandscapeProcessor:
                         elif not all(isinstance(x, (int, float)) for x in coords):
                             errors.append(f"troughs[{i}].coords must contain only numbers")
                     
-                    if 'label' not in trough:
-                        errors.append(f"troughs[{i}] is missing required field 'label'")
-                    elif not isinstance(trough['label'], str):
-                        errors.append(f"troughs[{i}].label must be a string")
+                    # Optional label field
+                    if 'label' in trough and trough['label'] is not None and not isinstance(trough['label'], str):
+                        errors.append(f"troughs[{i}].label must be a string if specified")
                     
                     # Optional fields
                     if 'type' in trough and trough['type'] not in [None, 'trough']:
@@ -279,6 +288,12 @@ class MoralLandscapeProcessor:
                     if 'z_index' in trough:
                         if not isinstance(trough['z_index'], int):
                             errors.append(f"troughs[{i}].z_index must be an integer")
+                    
+                    if 'fontsize' in trough:
+                        if not isinstance(trough['fontsize'], int):
+                            errors.append(f"troughs[{i}].fontsize must be an integer")
+                        elif trough['fontsize'] < 1:
+                            errors.append(f"troughs[{i}].fontsize must be at least 1")
         
         # Validate neutrals
         if 'neutrals' in config:
@@ -319,6 +334,12 @@ class MoralLandscapeProcessor:
                     if 'z_index' in neutral:
                         if not isinstance(neutral['z_index'], int):
                             errors.append(f"neutrals[{i}].z_index must be an integer")
+                    
+                    if 'fontsize' in neutral:
+                        if not isinstance(neutral['fontsize'], int):
+                            errors.append(f"neutrals[{i}].fontsize must be an integer")
+                        elif neutral['fontsize'] < 1:
+                            errors.append(f"neutrals[{i}].fontsize must be at least 1")
         
         # Validate moral_actions
         if 'moral_actions' in config:
@@ -373,6 +394,12 @@ class MoralLandscapeProcessor:
                             errors.append(f"moral_actions[{i}].alpha must be a number")
                         elif not (0 <= action['alpha'] <= 1):
                             errors.append(f"moral_actions[{i}].alpha must be between 0 and 1")
+                    
+                    if 'fontsize' in action:
+                        if not isinstance(action['fontsize'], int):
+                            errors.append(f"moral_actions[{i}].fontsize must be an integer")
+                        elif action['fontsize'] < 1:
+                            errors.append(f"moral_actions[{i}].fontsize must be at least 1")
         
         # Validate render section
         if 'render' in config:
@@ -518,58 +545,70 @@ class MoralLandscapeProcessor:
             if zlabel == '':
                 landscape.ax.set_zticklabels([])
             
+            # Get default fontsize from style or use generator default
+            style = landscape_config.get('style', {})
+            default_label_fontsize = style.get('label_fontsize', 11)
+            
             # Add labels for peaks
             for peak in peaks_config:
                 coords = peak['coords']
-                label = peak['label']
+                label = peak.get('label')
                 label_offset = peak.get('label_offset')
                 z_index = peak.get('z_index')
+                fontsize = peak.get('fontsize', default_label_fontsize)
                 
-                if label_offset:
-                    # label_offset is treated as relative offset from the point
-                    label_position = (
-                        coords[0] + label_offset[0],
-                        coords[1] + label_offset[1],
-                        coords[2] + label_offset[2]
+                # Only add label if it's not None and not empty string
+                if label:
+                    if label_offset:
+                        # label_offset is treated as relative offset from the point
+                        label_position = (
+                            coords[0] + label_offset[0],
+                            coords[1] + label_offset[1],
+                            coords[2] + label_offset[2]
+                        )
+                    else:
+                        label_position = None
+                    
+                    landscape.add_label(
+                        coords[0], coords[1], coords[2],
+                        label,
+                        label_type='peak',
+                        label_position=label_position,
+                        z_index=z_index,
+                        fontsize=fontsize
                     )
-                else:
-                    label_position = None
-                
-                landscape.add_label(
-                    coords[0], coords[1], coords[2],
-                    label,
-                    label_type='peak',
-                    label_position=label_position,
-                    z_index=z_index
-                )
             
             # Add labels for troughs
             for trough in troughs_config:
                 coords = trough['coords']
-                label = trough['label']
+                label = trough.get('label')
                 label_offset = trough.get('label_offset')
                 z_index = trough.get('z_index')
+                fontsize = trough.get('fontsize', default_label_fontsize)
                 
                 # For troughs, the z-coordinate should be negative to represent the low point
                 trough_z = -coords[2]
                 
-                if label_offset:
-                    # label_offset is treated as relative offset from the point
-                    label_position = (
-                        coords[0] + label_offset[0],
-                        coords[1] + label_offset[1],
-                        trough_z + label_offset[2]
+                # Only add label if it's not None and not empty string
+                if label:
+                    if label_offset:
+                        # label_offset is treated as relative offset from the point
+                        label_position = (
+                            coords[0] + label_offset[0],
+                            coords[1] + label_offset[1],
+                            trough_z + label_offset[2]
+                        )
+                    else:
+                        label_position = None
+                    
+                    landscape.add_label(
+                        coords[0], coords[1], trough_z,
+                        label,
+                        label_type='trough',
+                        label_position=label_position,
+                        z_index=z_index,
+                        fontsize=fontsize
                     )
-                else:
-                    label_position = None
-                
-                landscape.add_label(
-                    coords[0], coords[1], trough_z,
-                    label,
-                    label_type='trough',
-                    label_position=label_position,
-                    z_index=z_index
-                )
             
             # Add labels for neutrals
             for neutral in neutrals_config:
@@ -577,6 +616,7 @@ class MoralLandscapeProcessor:
                 label = neutral['label']
                 label_offset = neutral.get('label_offset')
                 z_index = neutral.get('z_index')
+                fontsize = neutral.get('fontsize', default_label_fontsize)
                 
                 if label_offset:
                     # label_offset is treated as relative offset from the point
@@ -593,7 +633,8 @@ class MoralLandscapeProcessor:
                     label,
                     label_type='neutral',
                     label_position=label_position,
-                    z_index=z_index
+                    z_index=z_index,
+                    fontsize=fontsize
                 )
             
             # Process moral actions (arrows between points)
@@ -632,6 +673,7 @@ class MoralLandscapeProcessor:
                     linewidth = action.get('linewidth')
                     linestyle = action.get('linestyle')
                     alpha = action.get('alpha')
+                    fontsize = action.get('fontsize', 10)  # Default for action arrows is 10
                     
                     # Look up coordinates
                     if source_label not in point_lookup:
@@ -653,7 +695,8 @@ class MoralLandscapeProcessor:
                         color=color,
                         linewidth=linewidth,
                         linestyle=linestyle,
-                        alpha=alpha
+                        alpha=alpha,
+                        fontsize=fontsize
                     )
             
             # Set view angle

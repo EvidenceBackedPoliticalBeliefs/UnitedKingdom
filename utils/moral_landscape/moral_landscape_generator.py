@@ -139,7 +139,8 @@ class MoralLandscape:
         label: str,
         label_type: str = 'peak',
         label_position: Tuple[float, float, float] = None,
-        z_index: Optional[int] = None
+        z_index: Optional[int] = None,
+        fontsize: int = 11
     ):
         """
         Add a text label with an arrow pointing to a specific point on the landscape.
@@ -150,6 +151,7 @@ class MoralLandscape:
             label_type: 'peak', 'trough', or 'neutral' (affects color)
             label_position: Where to place the label text (if None, auto-calculated)
             z_index: Z-order for label rendering (higher values appear in front)
+            fontsize: Font size for the label text (default: 11)
         """
         if self.ax is None:
             raise ValueError("Must call plot_landscape first")
@@ -192,7 +194,7 @@ class MoralLandscape:
             label_position[1],
             label_position[2],
             label,
-            fontsize=11,
+            fontsize=fontsize,
             fontweight='bold',
             color='black',
             ha='center',
@@ -238,7 +240,8 @@ class MoralLandscape:
         color: Optional[str] = None,
         linewidth: Optional[float] = None,
         linestyle: Optional[str] = None,
-        alpha: Optional[float] = None
+        alpha: Optional[float] = None,
+        fontsize: int = 10
     ):
         """
         Add an action arrow between two points on the landscape.
@@ -252,6 +255,7 @@ class MoralLandscape:
             linewidth: Line thickness (default: 2)
             linestyle: Line style (default: '--')
             alpha: Transparency level 0.0-1.0 (default: 1.0)
+            fontsize: Font size for the label text (default: 10)
         """
         if self.ax is None:
             raise ValueError("Must call plot_landscape first")
@@ -310,7 +314,7 @@ class MoralLandscape:
             label_pos[1],
             label_pos[2],
             label,
-            fontsize=10,
+            fontsize=fontsize,
             fontstyle='italic',
             color=color,
             ha='center',

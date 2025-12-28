@@ -96,11 +96,10 @@ A person can be tortured and in great pain, or they can be living a life of luxu
 
 If a man is starving and hypothermic, we know that there is an almost guaranteed *positive* outcome to his well-being if we feed him and bring him into the warmth.
 
-With these premises in mind we can model reality as a landscape, with peaks and troughs. We can traverse the landscape by taking actions. This could lead us in a positive (higher in elevation), negative (lower in elevation), or neutral direction.
+With these premises in mind we can model reality as a landscape, with peaks and valleys. We can traverse the landscape by taking actions. This could lead us in a positive (higher in elevation), negative (lower in elevation), or neutral direction.
 
 ### Visualising the Moral Landscape
 We can represent this homeless scenario on the moral landscape like so.
-
 
 ![homeless_scenario1.png](images/homeless_scenario1.png)
 <details>
@@ -212,20 +211,144 @@ render:
 
 </details>
 
-## Common concerns
+### Sometimes a valley must be crossed
+
+> “Nothing in the world is worth having or worth doing unless it means effort, pain, difficulty… I have never in my life envied a human being who led an easy life. I have envied a great many people who led difficult lives and led them well.”
+>
+> ― Theodore Roosevelt
+
+All policies inevitably have some side effects, those side effects may even go so far as to cause mass death. Sometimes the only conclusion that can be drawn, is we must descend deep into a valley in order to climb out the other side to a higher peak on the moral landscape.
+
+One can imagine the choice between several valleys on the moral landscape and no alternative but to choose one of them. Once inside a valley it may be that you're now trapped, continuing along a sequence of valleys blocked off from a direct route up the hill you wish to climb. In these situations you can only choose the least morally offensive course of action available to you.
+
+![deep_valley.png](images/deep_valley.png)
+<details>
+<summary>Code</summary>
+
+```yaml moralgraph
+
+landscape:
+  title:
+  x_range: [-15, 15]
+  y_range: [-15, 17]
+  style:
+    colormap: RdYlGn
+
+peaks:
+  - coords: [0, 0, 10]
+    label_offset: [0, -4, 5.0]
+    label: "Victory"
+
+neutrals:
+  - coords: [12, -13, 0]
+    label_offset: [4, 8, 10]
+    label: "1939"
+    z-index: 10
+
+troughs:
+  - coords: [7, -7, 5]
+    label_offset: [3, -5, -6.0]
+    label: "Draft in effect"
+    z_index: -5
+
+  # placeholder replaced: was "War deaths\n> 10,000"
+  - coords: [14, 9, 4]
+    label_offset: [12, 6, -2]
+    label: "War deaths\n~1M+"
+    z_index: -5
+
+  # placeholder replaced: was "War deaths\n> 50,000"
+  - coords: [12, 17, 6]
+    label_offset: [-12, -2, -7]
+    label: "War Deaths\n~1.3M+"
+    z_index: -5
+
+  - coords: [-12, 3, 9]
+    label_offset: [0, 6, 10]
+    label: "War lost"
+    z_index: 3
+
+  - coords: [-15, 6, 12]
+    label_offset: [-10, 2, 15]
+    label: "Totalitarian Rule"
+
+moral_actions:
+  - source: "1939"
+    target: "Draft in effect"
+    label: "Enact Draft"
+    linewidth: 2.5
+    linestyle: solid
+    color: orange
+    fontsize: 8 
+
+  - source: "Draft in effect"
+    target: "War deaths\n~1M+"
+    label: "Stalingrad"
+    linewidth: 2.5
+    linestyle: solid
+    color: orange
+    fontsize: 8 
+
+  - source: "War deaths\n~1M+"
+    target: "War Deaths\n~1.3M+"
+    label: "Battle of Berlin"
+    linewidth: 2.5
+    linestyle: solid
+    color: orange
+    fontsize: 8
+    
+  - source: "War Deaths\n~1.3M+"
+    target: "Victory"
+    label: "Germany Surrenders"
+    linewidth: 2.5
+    linestyle: solid
+    color: orange
+    fontsize: 8
+
+render:
+  output_file: "deep_valley.png"
+  view:
+    elevation: 10
+    azimuth: 35
+```
+
+</details>
+
+## Dream worlds
+With any moral calculation it's easy to visualise in one's mind, a path directly from the current point in time to the peak of the highest moral mountain. It's a reassuring picture to imagine such a path could exist. However, some people take this to the next level by presuming that the path *must* exist, and that we must therefore forgo any indirect path until we *find* the direct one.
+
+### Inaction
+This mindset also usually presumes that inaction is morally neutral, which is of course not true. If in 1939 Winton Churchill decided that he could simply delay action until a utopian route presented itself to him, it's likely the war would have ended very differently.
+
+### Premature action
+We also see the inverse, where overly simplistic "shortcuts" are proposed that ignore dramatic valleys those shortcuts could cut straight into.
+
+You can picture this as simply plowing forward in the landscape with your eyes shut, you *might* start ascending as you hope, or you could fall off a cliff.
+
+Sometimes inaction *is* actually the best course of action. Especially if the intent is to carry out more research to increase the surrounding view, before setting off.
+
+An interesting incarnation of this is in the [politicians fallacy](https://en.wikipedia.org/wiki/Politician%27s_syllogism) which goes
+
+> We must do something.
+>
+> This is something.
+>
+> Therefore, we must do this.
+
+# Common concerns
 Below are some common concerns about the above basis for morality that I have seen and why I don't consider them important.
 
-### What if a genocide for one group produces greater outcomes for another group?
+## What if a genocide for one group produces greater outcomes for another group?
 
 It is very hard to imagine a scenario where the negative outcome of the genocide of a people could be outweighed by the positive improvement of others.
 
-Given that our goal is to derive the most likely positive outcome for the greatest number of humans, genocide would be very hard to justify. Hard but not impossible.
+Given that our goal is to derive the most positive outcome for the greatest number of humans, genocide would be very hard to justify. Hard but not impossible.
 
 Looking at an example that is less tied to emotion and human history, it becomes clear that we make these moral calculations all the time.
 
-#### Mosquitos
+### Mosquitos
 
-We make great efforts to eradicate mosquitos, how is this morally justified? because we have calculated the morality of decimating the mosquito population vs not decimating them. 
+We make great efforts to eradicate mosquitos, how is this morally justified? Because we have calculated the morality of decimating the mosquito population vs not decimating them. 
 
 - If we don't eradicate mosquitos, millions of people will die. 
 - If we do eradicate them, millions will not.
@@ -233,18 +356,18 @@ We make great efforts to eradicate mosquitos, how is this morally justified? bec
 We know this to a degree of certainty higher than reasonable doubt.
 We also go to great lengths to make sure that we don't disrupt the ecosystem in this calculation too (exploring the moral consequences of each outcome as fully as possible).
 
-These types of moral calculations are all too easy for us to do when the targets are non-human animals. Invasive species are culled in unfathomable numbers every day, because we have carried out a moral calculation that it would be better to have no invasive species in our environments.
+These types of moral calculations are all too easy for us when the targets are non-human animals. Invasive species are culled in unfathomable numbers every day, because we have carried out a moral calculation that it would be better to have no invasive species in our environments.
 
-#### War
+### War
 Now if we shift back to humans, we see that we already sanction murder on a mass scale during exigent circumstances. We routinely kill many people in wars, including civilians, because we have determined it to be the least morally negative act.
 
-The idea that rational moral calculation, necessarily leads to a slippery slope that eventually ends in genocide is not borne out by reality. The fact we already do these calculations on a regular basis provides us the experimental evidence we need to dismiss this. (Let alone the alternative is *irrational* moral calculation?)
+The idea that rational moral calculation, necessarily leads to a slippery slope that eventually ends in genocide is not borne out in reality. The fact we already do these calculations on a regular basis provides us the experimental evidence we need to dismiss this. (Let alone the alternative is *irrational* moral calculation?)
 
-War necessitates eradication of the opposition's army, if your country is being invaded you will find very quickly that you're suddenly OK with mass killing. If an entire population fights tooth and nail to the very end, then you will likely carry out a genocide whether you like it or not.
+War necessitates eradication of the opposition's army. If your country is being invaded, you will find very quickly that you're suddenly OK with mass killing. If an entire population fights tooth and nail to the very end, then you will likely carry out a genocide whether you like it or not.
 
 When people often discuss genocide they are usually subtly implying *arbitrary* genocide which would have no moral foundation under this framework.
 
-#### Murder
+### Murder
 
 On a smaller scale, we also come to moral conclusions about *murder* all the time. A terrorist hijacks a plane and intends to fly it into a building. 
 
@@ -254,7 +377,7 @@ This also aligns easily with our evolved moral heuristics which is why most peop
 
 It is also likely the most moral decision to shoot the plane out of the sky killing all passengers onboard, for the purposes of saving thousands outside the plane. This act does not *feel* as obviously morally correct, through the lens of our evolved moral heuristics, because mechanisms of mass murder did not exist when our brains evolved.
 
-### This feels too cold
+## This feels too cold
 Any feeling that you cannot put into a cogent logical argument, is likely your inbuilt, evolved moral heuristics kicking in.
 
 These have evolved to allow you to negotiate life as a hunter-gatherer, occasionally encountering other humans on your travels. You're the product of a system that operated in a world far simpler and more predictable than the one we live in now.
@@ -290,7 +413,7 @@ At no point did the doctor claim he never does anything detrimental to his own h
 
 Just because the human mind is not a clockwork hyper-rational machine, capable of following the precisely optimal outcome for itself, every time, on demand, doesn't mean that there aren't discrete actions that are better than others.
 
-Have you ever been on a diet? Are you a hypocrite for not being able to follow through? or are you a flawed human like everyone else. It doesn't change the *fact* that eating less food causes weight loss.
+Have you ever been on a diet? Are you a hypocrite for not being able to follow through? Or are you a flawed human like everyone else. It doesn't change the *fact* that eating less food causes weight loss.
 
 # Politics
 Now with the moral basis clearly outlined we can more objectively analyse the political issues. Each opinion will be stored in a markdown document containing the following.

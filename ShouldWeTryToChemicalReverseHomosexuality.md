@@ -53,13 +53,13 @@ We consider many things a *disorder* when it interrupts our ability to function 
 - Intellectual disability
 - Tic disorders (including Tourette's syndrome)
 
-Importantly these disorders are only considered disorders when occurring an *incompatible* society. I will examine a few here, hopefully sufficient to clarify the definition.
+Importantly these disorders are only considered disorders when occurring in an *incompatible* society. I will examine a few here, hopefully sufficient to clarify the definition.
 
 #### Dyslexia 
 Someone with dyslexia will have substantial issues functioning in a society dominated by the written language. That same person living in an agrarian society, with very infrequent (or non-existent) use of the written language would be indistinguishable from any other person. Their subjective experience of the mental illness would be non-existent. From their point of view their brain has the same exact structure as every other member of their community.   
 
 #### Autism spectrum disorder
-Many of the traits associated with autism - social communication, preference for routine, sensory sensitivity, intense focus on specific interests - become disabling in a society built around rapid social signaling, ambiguous norms, constant sensory stimulation, and high demands for flexible, multitasking behavior.
+Many of the traits associated with autism - social communication, preference for routine, sensory sensitivity, intense focus on specific interests - become disabling in a society built around rapid social signaling, ambiguous norms, constant sensory stimulation, and high demands for flexible, multitasking behaviour.
 
 It's not hard to imagine that a society could be crafted in which
 
@@ -70,7 +70,7 @@ It's not hard to imagine that a society could be crafted in which
 
 As in the agrarian society it is hard to imagine the autistic individual feeling they had any subjective impairment. It's quite likely a new *disorder* would be defined for those whose preferences were not that of this society at large.
 
-In this instance we see that *misalignment* with the *majority* state of being in society is what primarily defines a specific brain structure as *disordered*.
+In this instance we see that *misalignment* with the majority state of being in society is what primarily defines a specific brain structure as *disordered*.
 
 There would probably be classes where the minority are taught how they are expected to behave in society, and how to cover up their natural behaviours.
 
@@ -106,11 +106,11 @@ So given what we've explored so far, we can come to the following conclusions:
 Throughout history people have tried to convert homosexuals by force. This has led to an immediate moral reaction to the concept of trying to "treat" homosexuality. To properly discuss this topic we need to temporarily suspend our moral intuitions, social conditioning, and detach the concept from the horrors of history on the topic.
 
 ## The origins of homosexuality
-The culmination of science on the subject is pretty conclusive at this point, there are genetic and environmental factors at play. There appears to be no single "gay gene" that we can detect, it seems that genetics accounts for 8–25% of variation in same-sex sexual behavior, and the predictive for individuals is not significant.
+The culmination of science on the subject is pretty conclusive at this point, there are genetic and environmental factors at play. There appears to be no single "gay gene" that we can detect, it seems that genetics accounts for 8–25% of variation in same-sex sexual behavior, and the predictive capability of genetics for individuals is not significant.
 
 The science also shows that sexual preference is very stable over time, most people don't stop being gay later in their lives, for example.
 
-For the purposes of this analysis the specifics are not important, we can safely assume that through some combination of involuntary factors, sexuality preference develops. We will assume that the person involved has no choice over their sexual preference and is unable to voluntarily change it through force of will.
+For the purposes of this analysis the specifics are not important, we can safely assume that through some combination of involuntary factors, sexual preference develops. We will assume that the person involved has no choice over their sexual preference and is unable to voluntarily change it through force of will.
 
 ## Can homosexuality be modelled as a mental illness?
 There are many situations where discovering that you are homosexual could lead to a terrible set of outcomes for you as the individual. In some countries you can be summarily executed for simply being a homosexual. Even in countries where it's completely legal and morally accepted to be gay, there can still be substantial personal harms due to the reaction of one's local community or family. In a highly religious family group one can be ostracised. This is not exclusive to religious cultural norms. There are numerous countries where heterosexuality is both the norm and mandated by law with no religious basis.
@@ -121,19 +121,19 @@ For many countries, the concept of family duty, conformity, honour, social hiera
 ### Subjective harm
 We have no choice over the location we are born in. The culture you are raised in is a key driving force to your own sense of self, group, and place in the world. You as the individual have no control over what the norms are for the majority. An autistic individual cannot shape an overstimulating world into their own personal quiet place. Just as a gay person is unable to change the morals basis and values of the majority of their neighbours.
 
-With this in mind, it's clear that being attracted to the same sex can cause a great deal of internal, subjective, distress in an individual. We can easily conceive of a person for which this distress harms them to a far more substantial degree than many recognised mental disorders. It's plain to see that someone, given the choice, might choose to be have Autism Spectrum Disorder over same-sex attraction.
+With this in mind, it's clear that being attracted to the same sex can cause a great deal of internal, subjective, distress in an individual. We can easily conceive of a person for which this distress harms them to a far more substantial degree than many recognised mental disorders. It's plain to see that someone, given the choice, might choose to have Autism Spectrum Disorder over same-sex attraction.
 
 ### Medication
 You might think that this entire discussion is a moot point because we have no medical or psychological intervention that could possibly change someone's sexual preferences. But this raises and important question, why do we believe it is medically impossible to change a person's sexual preference? It has long been considered immoral to carry out experiments in changing orientation. No significant scientific research has been carried out since the 1970s. This has the makings of a self-fulfilling prophecy.  
 
-It seems apparent that childhood plays a key role in the formation of sexual preferences. In order to make a serious effort in this area of study we would likely have to experiment on children. This violates one of our highest moral values, the value of personal autonomy discussed above. As a child cannot consent to voluntary experimentation such an effort would necessarily be immoral by that standard. *(this is a complex topic, I will leave it here for now)*
+It seems apparent that childhood plays a key role in the formation of sexual preferences. In order to make a serious effort in this area of study we would likely have to experiment on children. This violates one of our highest moral values, the value of personal autonomy discussed above. As a child cannot consent to voluntary experimentation, such an effort would necessarily be immoral by that standard. *(this is a complex topic, I will leave it here for now)*
 
 For the purposes of the argument, we will assume that a treatment exists, that could change a person's sexual preference.
 
 ### Logical conclusion
 While it may sound on the face of it immoral to call homosexuality a mental illness. This intuition is heavily informed by the historical precedent and current mistreatment of homosexuals across the world. This is compounded by the stigma associated with mental illnesses, as though by labelling it a mental illness we are implying a moral value to that state of being.
 
-It seems that by all the criteria defined above it is logically consistent in cultural contexts (likely at least significantly dissimilar from the west) that we could imagine a mental disorder being defined for homosexuality.
+It seems that by all the criteria defined above it is logically consistent in certain cultural contexts that we could imagine a mental disorder being defined for homosexuality.
 
 In Japan for example, it is likely that all criteria required would be met:
 
@@ -142,7 +142,7 @@ In Japan for example, it is likely that all criteria required would be met:
 - Subjective experience of harm
 - Involuntary affliction, no choice in your sexual preference
 
-It does not follow logically that Japan would not be permitted to define homosexuality a mental illness and offer voluntary treatment (if such a treatment existed).
+It does not follow logically that Japan should not be permitted to define homosexuality a mental illness and offer voluntary treatment (if such a treatment existed).
 
 Logically we must also conclude that Japan would be morally coherent with western morality to conduct research on consenting adults in an effort to change their sexuality. To state otherwise would be hypocritical in relation to our acts with regard to mental illness.
 

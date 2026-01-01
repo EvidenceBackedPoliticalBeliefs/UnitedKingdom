@@ -1,0 +1,149 @@
+.tag {
+    display: inline-block;
+    padding: 3px 10px;
+    margin: 2px 4px;
+    border-radius: 12px;
+    font-size: 0.75em;
+    font-weight: 600;
+    text-decoration: none;
+    white-space: nowrap;
+    vertical-align: middle;
+}
+
+.tag-descriptive {
+    background-color: #e3f2fd;
+    color: #1565c0;
+    border: 1px solid #90caf9;
+}
+
+.tag-descriptive::before {
+    content: "🔍 Descriptive";
+}
+
+.tag-empirical {
+    background-color: #f3e5f5;
+    color: #6a1b9a;
+    border: 1px solid #ce93d8;
+}
+
+.tag-empirical::before {
+    content: "📊 Empirical";
+}
+
+.tag-illustrative {
+    background-color: #fff3e0;
+    color: #e65100;
+    border: 1px solid #ffb74d;
+}
+
+.tag-illustrative::before {
+    content: "🖼️ Illustrative Example";
+}
+
+.tag-premise {
+    background-color: #e8f5e9;
+    color: #2e7d32;
+    border: 1px solid #81c784;
+}
+
+.tag-premise::before {
+    content: "🧱 Premise";
+}
+
+.tag-inference {
+    background-color: #fce4ec;
+    color: #c2185b;
+    border: 1px solid #f48fb1;
+}
+
+.tag-inference::before {
+    content: "🔗 Inference";
+}
+
+.tag-implicit {
+    background-color: #fff9e6;
+    color: #8b6914;
+    border: 1px solid #ffd966;
+}
+
+.tag-implicit::before {
+    content: "🧠 Implicit Assumptions";
+}
+
+.tag-rebuttal {
+    background-color: #ffebee;
+    color: #c62828;
+    border: 1px solid #ef9a9a;
+}
+
+.tag-rebuttal::before {
+    content: "⚔️ Rebuttal";
+}
+
+/* Important Premise Callout Block */
+.important-premise {
+    background-color: #f0f8ff;
+    border-left: 5px solid #2e7d32;
+    border-radius: 4px;
+    padding: 20px 24px;
+    margin: 24px 0;
+    box-shadow: 0 2px 8px rgba(46, 125, 50, 0.15);
+    position: relative;
+}
+
+.important-premise::before {
+    content: "⚡ Premise";
+    display: block;
+    font-weight: 700;
+    font-size: 0.85em;
+    color: #2e7d32;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    margin-bottom: 12px;
+}
+
+.important-premise p {
+    margin: 0;
+    color: #1a472a;
+    font-size: 1.05em;
+    line-height: 1.7;
+    font-weight: 500;
+}
+
+.important-premise strong {
+    color: #1b5e20;
+}
+
+/* Important Conclusion Callout Block */
+.important-conclusion {
+    background-color: #f3e5f5;
+    border-left: 5px solid #6a1b9a;
+    border-radius: 4px;
+    padding: 20px 24px;
+    margin: 24px 0;
+    box-shadow: 0 2px 8px rgba(106, 27, 154, 0.15);
+    position: relative;
+}
+
+.important-conclusion::before {
+    content: "💡 Conclusion";
+    display: block;
+    font-weight: 700;
+    font-size: 0.85em;
+    color: #6a1b9a;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    margin-bottom: 12px;
+}
+
+.important-conclusion p {
+    margin: 0;
+    color: #4a148c;
+    font-size: 1.05em;
+    line-height: 1.7;
+    font-weight: 500;
+}
+
+.important-conclusion strong {
+    color: #38006b;
+}

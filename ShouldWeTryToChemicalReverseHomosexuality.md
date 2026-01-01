@@ -367,7 +367,7 @@ To claim that sexuality is too complex to be meaningfully changed by medication 
 - Flibanserin (Addyi) has randomized controlled trial evidence showing improvement on validated desire and distress measures versus placebo in women with HSDD. [PubMed](https://pubmed.ncbi.nlm.nih.gov/23672269/) 
 - A 2024 systematic review reports evidence that mindfulness-based interventions can be effective for sexual arousal/desire disorders [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC11815347/)
 
-We also see a case of an individual reporting unprecedented homosexual attraction as a result of psychotropic medication.[^11]
+We also see a case of an individual reporting unprecedented homosexual attraction as a result of psychotropic medication.[^11] The attraction ceased when an alternate medication was prescribed.
 
 <div class="important-premise">
 <p>

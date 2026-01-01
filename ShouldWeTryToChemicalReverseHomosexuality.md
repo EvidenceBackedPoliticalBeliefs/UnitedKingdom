@@ -2,7 +2,7 @@
 
 # Should We Try to Chemically Reverse Homosexuality?
 
-<a href="/Argumentation.md#-descriptive" class="tag tag-descriptive"></a>
+<a href="Argumentation.md#-descriptive" class="tag tag-descriptive"></a>
 
 In light of the recent popular discussion around chemically transitioning children to the opposite sex, I want to explore a potential double standard from a moral perspective.
 
@@ -45,8 +45,8 @@ Your first thought may be that medicine is used to treat someone's *objective* s
 
 ## Pain medication
 
-<a href="/Argumentation.md#-descriptive" class="tag tag-descriptive"></a>
-<a href="/Argumentation.md#-illustrative-example" class="tag tag-illustrative"></a>
+<a href="Argumentation.md#-descriptive" class="tag tag-descriptive"></a>
+<a href="Argumentation.md#-illustrative-example" class="tag tag-illustrative"></a>
 
 If I have a headache, I may take a [painkiller](https://en.wikipedia.org/wiki/Analgesic) to attempt to alleviate my subjective sense of head pain. I didn't go to an MRI machine and confirm that my brain is suffering some physical anomaly that caused my head pain before self prescribing paracetamol (acetaminophen).
 
@@ -54,23 +54,23 @@ You might think it's simply because we don't have an accurate and convenient way
 
 ## Nocebo
 
-<a href="/Argumentation.md#-descriptive" class="tag tag-descriptive"></a> <a href="/Argumentation.md#-empirical" class="tag tag-empirical"></a>
+<a href="Argumentation.md#-descriptive" class="tag tag-descriptive"></a> <a href="Argumentation.md#-empirical" class="tag tag-empirical"></a>
 
 
 The [nocebo](https://en.wikipedia.org/wiki/Nocebo) effect is well demonstrated. Humans have the ability to cause a subjective experience of pain (or other negative symptoms) simply through mere thought alone. 
 
-<a href="/Argumentation.md#-illustrative-example" class="tag tag-illustrative"></a>
+<a href="Argumentation.md#-illustrative-example" class="tag tag-illustrative"></a>
 
 An interesting instance of this occurred as a response to a newly erected 5G tower. Residents in the local area began reporting headaches, demanding the tower be taken down. It turned out that the tower had not actually been turned on.[^5]
 
 ## Placebo
 
-<a href="/Argumentation.md#-descriptive" class="tag tag-descriptive"></a> 
-<a href="/Argumentation.md#-empirical" class="tag tag-empirical"></a>
+<a href="Argumentation.md#-descriptive" class="tag tag-descriptive"></a> 
+<a href="Argumentation.md#-empirical" class="tag tag-empirical"></a>
 
 On the flip side, it is well known that the [placebo effect](https://en.wikipedia.org/wiki/Placebo) can be induced in a variety of ways. 
 
-<a href="/Argumentation.md#-illustrative-example" class="tag tag-illustrative"></a>
+<a href="Argumentation.md#-illustrative-example" class="tag tag-illustrative"></a>
 
 If I have a headache and I take a sugar pill, and then my headache goes away, does it mean I didn't really have a headache? No of course not. 
 
@@ -78,7 +78,7 @@ Does it mean that there was no underlying physical reason for the headache? No n
 
 ## Patient autonomy is paramount
 
-<a href="/Argumentation.md#-illustrative-example" class="tag tag-illustrative"></a>
+<a href="Argumentation.md#-illustrative-example" class="tag tag-illustrative"></a>
 
 You might think the example of a headache is a special case, but this can be applied to all ailments. Imagine a deaf person, who for reasons of culture decides they do not want a cochlear implant. To that patient there is no treatment required, their *subjective* experience is that there is no problem to correct. 
 
@@ -92,12 +92,12 @@ Take any ailment, and you are likely to find someone who is happier in the malfu
 
 ### What about terminal illnesses?
 
-<a href="/Argumentation.md#-illustrative-example" class="tag tag-illustrative"></a>
+<a href="Argumentation.md#-illustrative-example" class="tag tag-illustrative"></a>
 
 It's possible that a particularly suicidal person would be grateful for their terminal illness. Their subjective experience is that their illness is the cure to their subjective suffering. A patient is permitted to refuse any and all treatment in our society. So again we see that the subjective experience wins out even in the most extreme objective circumstances.
 
 ### Suicide
-<a href="/Argumentation.md#-descriptive" class="tag tag-descriptive"></a>
+<a href="Argumentation.md#-descriptive" class="tag tag-descriptive"></a>
 
 We as a society generally consider a suicidal person mentally ill, to a degree that we determine the moral act is to intervene and prevent the death of the person.
 
@@ -105,11 +105,11 @@ Our moral calculus is that if we could resolve the mental defect causing their s
 
 ### What about mental illness?
 
-<a href="/Argumentation.md#-descriptive" class="tag tag-descriptive"></a>
+<a href="Argumentation.md#-descriptive" class="tag tag-descriptive"></a>
 
 Where the mental illness does not go so far as to cause physical injury to oneself or harm to others. All mental illness is treated based on the subjective harm that illness causes.
 
-<a href="/Argumentation.md#-illustrative-example" class="tag tag-illustrative"></a>
+<a href="Argumentation.md#-illustrative-example" class="tag tag-illustrative"></a>
 
 If I have depression, no one will forcibly interfere in my life. 
 - It's my choice to live with depression if I choose. 
@@ -123,8 +123,8 @@ Even normally non-terminal illnesses are not treated, if the patient so chooses,
 
 ### What counts as mental illness?
 
-<a href="/Argumentation.md#-descriptive" class="tag tag-descriptive"></a>
-<a href="/Argumentation.md#-illustrative-example" class="tag tag-illustrative"></a>
+<a href="Argumentation.md#-descriptive" class="tag tag-descriptive"></a>
+<a href="Argumentation.md#-illustrative-example" class="tag tag-illustrative"></a>
 
 We consider many behaviours of individuals *disordered* when it interrupts our ability to function well in society. For example:
 
@@ -141,13 +141,13 @@ Importantly these disorders are only considered disorders when occurring in an *
 </div>
 
 #### Dyslexia 
-<a href="/Argumentation.md#-illustrative-example" class="tag tag-illustrative"></a>
+<a href="Argumentation.md#-illustrative-example" class="tag tag-illustrative"></a>
 
 Someone with dyslexia will have substantial problems functioning in a society dominated by the written language. That same person living in an [agrarian society](https://en.wikipedia.org/wiki/Agrarian_society), with very infrequent (or non-existent) use of the written language would be indistinguishable from any other person. Their subjective experience of the mental illness would be non-existent. From their point of view their brain has the same exact structure as every other member of their community.
 
 #### Autism spectrum disorder
 
-<a href="/Argumentation.md#-illustrative-example" class="tag tag-illustrative"></a>
+<a href="Argumentation.md#-illustrative-example" class="tag tag-illustrative"></a>
 
 Many of the traits associated with autism - social communication, preference for routine, sensory sensitivity, intense focus on specific interests - become disabling in a society built around rapid social signaling, ambiguous norms, constant sensory stimulation, and high demands for flexible, multitasking behaviour.[^8]
 
@@ -166,7 +166,7 @@ There would likely be classes where the minority are taught how they are expecte
 
 #### Tourette's syndrome
 
-<a href="/Argumentation.md#-illustrative-example" class="tag tag-illustrative"></a>
+<a href="Argumentation.md#-illustrative-example" class="tag tag-illustrative"></a>
 
 Again we see that the majority of the group sets the standard, and the minority are considered disordered for not having a brain that aligns with the majority. 
 
@@ -178,7 +178,7 @@ There could be classes on how to behave "normally", learning what is expected in
 
 #### Colour blindness
 
-<a href="/Argumentation.md#-illustrative-example" class="tag tag-illustrative"></a>
+<a href="Argumentation.md#-illustrative-example" class="tag tag-illustrative"></a>
 
 We also see that with colour blindness, it's only by the fact that the majority of people have the ability to see the "full" colour spectrum that we can even talk of a "full" spectrum.
 
@@ -192,7 +192,7 @@ In the case of people born colour blind, had they never been told they were lack
 
 ## Moral Conclusions of Medicine
 
-<a href="/Argumentation.md#-inference" class="tag tag-inference"></a>
+<a href="Argumentation.md#-inference" class="tag tag-inference"></a>
 
 So given what we've explored so far, we can come to the following conclusions:
 
@@ -203,7 +203,7 @@ So given what we've explored so far, we can come to the following conclusions:
 
 ### But aren't these objective reductions in capability?
 
-<a href="/Argumentation.md#️-rebuttal" class="tag tag-rebuttal"></a>
+<a href="Argumentation.md#️-rebuttal" class="tag tag-rebuttal"></a>
 
 You might try to dismiss this framing as obfuscating the fact that individuals with these conditions lack the *ability* to fit in. 
 
@@ -215,7 +215,7 @@ This would be in contrast to *subjective* societal norms defined in a preferenti
 
 This argument sounds appealing, but again it uses the **majority** state to define what *counts* as mandatory ability in order to fit in.
 
-<a href="/Argumentation.md#-illustrative-example" class="tag tag-illustrative"></a>
+<a href="Argumentation.md#-illustrative-example" class="tag tag-illustrative"></a>
  
  In the autistic society described above, we can imagine there are many people who would state that the inability to be direct when communicating, was the non-autistic person lacking the *ability* to fit in.
 
@@ -235,14 +235,14 @@ In these societies we would say that those individuals were "objectively lacking
 
 # Homosexuality
 
-<a href="/Argumentation.md#-descriptive" class="tag tag-descriptive"></a>
+<a href="Argumentation.md#-descriptive" class="tag tag-descriptive"></a>
 
 Throughout history people have tried to convert homosexuals by force. This has led to an immediate moral reaction to the concept of trying to "treat" homosexuality. To properly discuss this topic we need to temporarily suspend our moral intuitions, social conditioning, and detach the concept from the horrors of history on the topic.
 
 ## The origins of homosexuality
 
-<a href="/Argumentation.md#-descriptive" class="tag tag-descriptive"></a>
-<a href="/Argumentation.md#-empirical" class="tag tag-empirical"></a>
+<a href="Argumentation.md#-descriptive" class="tag tag-descriptive"></a>
+<a href="Argumentation.md#-empirical" class="tag tag-empirical"></a>
 
 The culmination of science on the subject is pretty conclusive at this point, there are genetic and environmental factors at play. There appears to be no single "gay gene" that we can detect, it seems that genetics may account for 25%[^9] of variation in same-sex sexual behavior, and the predictive capability of genetics for individuals is not significant.
 
@@ -257,7 +257,7 @@ We will assume that the person involved has no choice over their sexual preferen
 </div>
 
 ## Can homosexuality cause harm to the individual?
-<a href="/Argumentation.md#-descriptive" class="tag tag-descriptive"></a>
+<a href="Argumentation.md#-descriptive" class="tag tag-descriptive"></a>
 
 There are many situations where discovering that you are homosexual could lead to a terrible set of outcomes for you as the individual. 
 
@@ -271,17 +271,17 @@ In a highly religious family group one can be ostracised. This is not exclusive 
 
 ### Societal factor
 
-<a href="/Argumentation.md#-descriptive" class="tag tag-descriptive"></a>
+<a href="Argumentation.md#-descriptive" class="tag tag-descriptive"></a>
 
 For many countries, the concept of family duty, conformity, honour, social hierarchy, can be immensely important for one to "fit into". The specific values a culture holds can crystalise into outright homophobia and discrimination, or it can simply be that a person is unable to live a "normal" life within that society, no matter how much they may desire to.
 
 ### Subjective harm
 
-<a href="/Argumentation.md#-descriptive" class="tag tag-descriptive"></a>
+<a href="Argumentation.md#-descriptive" class="tag tag-descriptive"></a>
 
 We have no choice over the location we are born in. The culture you are raised in is a key driving force to your own sense of self, group, and place in the world. You as the individual have no control over what the norms are for the majority.
 
-<a href="/Argumentation.md#-illustrative-example" class="tag tag-illustrative"></a>
+<a href="Argumentation.md#-illustrative-example" class="tag tag-illustrative"></a>
 
 An autistic individual cannot shape an overstimulating world into their own personal quiet place. Just as a gay person is unable to change the morals basis and values of the majority of their neighbours.
 
@@ -294,7 +294,7 @@ With this in mind, it's clear that being attracted to the same sex can cause a g
 
 ## Can homosexuality be modelled as a mental illness?
 
-<a href="/Argumentation.md#-inference" class="tag tag-inference"></a>
+<a href="Argumentation.md#-inference" class="tag tag-inference"></a>
 
 By all standards that apply to other currently prescribed mental illnesses, we see that homosexuality can be modelled to have the same set of factors, deemed severe enough to warrant medical intervention. 
 
@@ -306,7 +306,7 @@ As far as it can be reasoned, there is no objective basis to classify autism spe
 
 ## Example society
 
-<a href="/Argumentation.md#-illustrative-example" class="tag tag-illustrative"></a>
+<a href="Argumentation.md#-illustrative-example" class="tag tag-illustrative"></a>
 
 It seems that by all the criteria defined above it is logically consistent in certain cultural contexts that we could imagine a mental disorder being defined for homosexuality.
 
@@ -327,11 +327,11 @@ Logically we must also conclude that Japan would be morally coherent with wester
 
 ## We can't medically treat homosexuality
 
-<a href="/Argumentation.md#️-rebuttal" class="tag tag-rebuttal"></a>
+<a href="Argumentation.md#️-rebuttal" class="tag tag-rebuttal"></a>
 
 You might think that this entire discussion is a moot point because we have no medical or psychological intervention that could possibly change someone's sexual preferences. But this raises and important question, why do we believe it is medically impossible to change a person's sexual preference?
 
-<a href="/Argumentation.md#-descriptive" class="tag tag-descriptive"></a>
+<a href="Argumentation.md#-descriptive" class="tag tag-descriptive"></a>
 
 It has long been considered immoral to carry out experiments in changing sexual orientation. No significant scientific research has been carried out since the 1970s. This has the makings of a self-fulfilling prophecy.
 
@@ -345,7 +345,7 @@ The [argument from ignorance](https://en.wikipedia.org/wiki/Argument_from_ignora
 
 To state that the science shows there is no way to change a person's sexual preferences is misleading at best.
 
-<a href="/Argumentation.md#-illustrative-example" class="tag tag-illustrative"></a>
+<a href="Argumentation.md#-illustrative-example" class="tag tag-illustrative"></a>
 
 In addition, there are many conditions we simply have no viable treatments for, yet we still recognise them as disorders. E.g. Alzheimer's disease, many diagnosable personality disorders.
 
@@ -356,12 +356,12 @@ A lack of a known treatment right now, does not preclude a treatment from ever e
 </div>
 
 ### Sexuality is too complex to be altered by medical intervention
-<a href="/Argumentation.md#️-rebuttal" class="tag tag-rebuttal"></a>
+<a href="Argumentation.md#️-rebuttal" class="tag tag-rebuttal"></a>
 
 To claim that sexuality is too complex to be meaningfully changed by medication or psychotherapy techniques is simply untrue.
 
-<a href="/Argumentation.md#-illustrative-example" class="tag tag-illustrative"></a>
-<a href="/Argumentation.md#-empirical" class="tag tag-empirical"></a>
+<a href="Argumentation.md#-illustrative-example" class="tag tag-illustrative"></a>
+<a href="Argumentation.md#-empirical" class="tag tag-empirical"></a>
 
 - SSRIs/SNRIs (antidepressants) are widely documented to cause sexual side effects across desire, arousal, and orgasm. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC3108697/)
 - Flibanserin (Addyi) has randomized controlled trial evidence showing improvement on validated desire and distress measures versus placebo in women with HSDD. [PubMed](https://pubmed.ncbi.nlm.nih.gov/23672269/) 
@@ -377,7 +377,7 @@ It cannot be stated categorically that sexual preference is impossible to change
 
 ### Experimentation on homosexual children would be immoral
 
- <a href="/Argumentation.md#-descriptive" class="tag tag-descriptive"></a>
+ <a href="Argumentation.md#-descriptive" class="tag tag-descriptive"></a>
 
 It seems apparent that childhood plays a key role in the formation of sexual preferences. In order to make a serious effort in this area of study we would likely have to experiment on children. 
 
@@ -396,7 +396,7 @@ Any argument that it is immoral to experiment on children must apply equally to 
 # Common arguments
 ## Gender is not the same as sexuality
 
-<a href="/Argumentation.md#️-rebuttal" class="tag tag-rebuttal"></a>
+<a href="Argumentation.md#️-rebuttal" class="tag tag-rebuttal"></a>
 
 Proponents of medical diagnosis and treatment of children with gender dysphoria may claim that sexuality is fundamentally different to gender in some way. Their argument being that these differences mean that we should chemically treat gender dysphoria, but that we should not treat sexuality.
 
@@ -404,7 +404,7 @@ It's hard to get clarity on what proponents of this line of reasoning actually b
 
 ## Gender is part of someone's identity
 
-<a href="/Argumentation.md#️-rebuttal" class="tag tag-rebuttal"></a>
+<a href="Argumentation.md#️-rebuttal" class="tag tag-rebuttal"></a>
 
 A common distinction made, is that gender is part of your **identity** whereas sexuality is not. Again this is just an arbitrary redefining of the word "identity". For many, sexuality is a key part of their identity, for many it is not.
 
@@ -412,7 +412,7 @@ It also hides the implicit axiom that we must never change an attribute of someo
 
 ## Transgender individuals want to change, homosexuals don't
 
-<a href="/Argumentation.md#️-rebuttal" class="tag tag-rebuttal"></a>
+<a href="Argumentation.md#️-rebuttal" class="tag tag-rebuttal"></a>
 
 This is a biased perspective (likely [selection bias](https://en.wikipedia.org/wiki/Selection_bias)). As laid out above, it is very easy to imagine many vast numbers of homosexual people who would happily accept medical treatment for their "disorder" if such a treatment existed. This argument also does not actually refute any premise above.
 

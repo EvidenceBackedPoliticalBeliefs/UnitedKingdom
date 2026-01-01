@@ -147,3 +147,11 @@ cython_debug/
 # OS specific
 .DS_Store
 Thumbs.db
+
+# Jekyll
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+Gemfile.lock
+vendor/

@@ -12,8 +12,8 @@ In light of the recent popular discussion around chemically transitioning childr
 
 My primary arguments are:
 
-- Any moral issue with medically treating homosexuality must logically apply to medically treating gender dysphoria.[^4]
-- Any moral issue conducting medical experiments on homosexual children must also apply to children with gender dysphoria[^4]
+- Any moral objections to medically treating homosexuality must logically apply to medically treating gender dysphoria.[^4]
+- Any moral objections to conducting medical experiments on homosexual children must also apply to children with gender dysphoria[^4]
 
 ## Moral basis
 <a href="#-implicit-assumptions" class="tag tag-implicit"></a>

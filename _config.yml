@@ -1,0 +1,41 @@
+title: United Kingdom Repository
+description: Philosophical and ethical discussions
+baseurl: ""
+url: ""
+
+# Build settings
+markdown: kramdown
+theme: minima
+
+# Include and exclude files
+include:
+  - README.md
+  - Argumentation.md
+  - ApplyingTheMoralFramework.md
+  - ShouldWeTryToChemicalReverseHomosexuality.md
+  - FlawedThinking
+  - images
+  - styles
+
+exclude:
+  - .git
+  - .github
+  - node_modules
+  - utils
+  - requirements.txt
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Kramdown settings
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  
+# Collections (if needed in future)
+collections_dir: .

@@ -20,6 +20,18 @@ This document defines the logical tags used throughout the repository to categor
 
 **Example:** "Throughout history, societies have organized themselves into hierarchical structures with systems of governance and law."
 
+Just to re-iterate, this is not the author advocated for or against the statement being made. It is as simple as looking out of your window, seeing a tree, and proclaiming "There is a tree out my window". No moral or preferential quality has been made. 
+This is **not** the same as:
+
+- I like that there is a tree
+- We should have more trees
+- I hate trees
+- I wish we could cut this tree down
+- I wish this was a different species of tree
+- We should make trees extinct
+
+It is important to elaborate this, because in debates I see this almost every time. A descriptive statement is not a prescriptive statement.
+
 ---
 
 ### 📊 Empirical

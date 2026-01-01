@@ -137,13 +137,13 @@ We consider many behaviours of individuals *disordered* when it interrupts our a
 Importantly these disorders are only considered disorders when occurring in an *incompatible* society. I will examine a few here, hopefully sufficient to clarify the definition.
 
 <div class="important-premise">
-<p>A medical disorder <i>can</i> be defined purely based on a person's inability to thrive in a specific societal context.</p>
+<p>A medical disorder <i>can</i> be defined entirely on a person's inability to thrive in a specific societal context.</p>
 </div>
 
 #### Dyslexia 
 <a href="/Argumentation.md#-illustrative-example" class="tag tag-illustrative"></a>
 
-Someone with dyslexia will have substantial problems functioning in a society dominated by the written language. That same person living in an agrarian society, with very infrequent (or non-existent) use of the written language would be indistinguishable from any other person. Their subjective experience of the mental illness would be non-existent. From their point of view their brain has the same exact structure as every other member of their community.
+Someone with dyslexia will have substantial problems functioning in a society dominated by the written language. That same person living in an [agrarian society](https://en.wikipedia.org/wiki/Agrarian_society), with very infrequent (or non-existent) use of the written language would be indistinguishable from any other person. Their subjective experience of the mental illness would be non-existent. From their point of view their brain has the same exact structure as every other member of their community.
 
 #### Autism spectrum disorder
 
@@ -162,13 +162,15 @@ As in the agrarian society it is hard to imagine the autistic individual feeling
 
 In this instance we see that *misalignment* with the majority state of being in society is what primarily defines a specific brain structure as *disordered*.
 
-There would probably be classes where the minority are taught how they are expected to behave in society, and how to cover up their natural behaviours.
+There would likely be classes where the minority are taught how they are expected to behave in society, and how to cover up their natural behaviours.
 
 #### Tourette's syndrome
 
 <a href="/Argumentation.md#-illustrative-example" class="tag tag-illustrative"></a>
 
-Again we see that the majority of the group sets the standard, and the minority are considered disordered for not having a brain that aligns with the majority. In a world where 99% of the population has the behaviours associated with Tourette's syndrome, it is likely that we might label the 1% with something like Compulsive Deficit Disorder or perhaps Expressive Suppression Disorder.
+Again we see that the majority of the group sets the standard, and the minority are considered disordered for not having a brain that aligns with the majority. 
+
+In a world where 99% of the population has the behaviours associated with Tourette's syndrome, it is likely that we might label the 1% with something like Compulsive Deficit Disorder or perhaps Expressive Suppression Disorder.
 
 We would then look to treat "ESD" with various treatments to stimulate tics. We might prescribe Amphetamine to attempt to induce tics.
 
@@ -178,7 +180,7 @@ There could be classes on how to behave "normally", learning what is expected in
 
 <a href="/Argumentation.md#-illustrative-example" class="tag tag-illustrative"></a>
 
-We also see that with colour blindness, it is only by the fact that the majority of people have the ability to see the "full" colour spectrum that we can even talk of a "full" spectrum.
+We also see that with colour blindness, it's only by the fact that the majority of people have the ability to see the "full" colour spectrum that we can even talk of a "full" spectrum.
 
 In the case of people born colour blind, had they never been told they were lacking a specific ability, they would be completely unaware of it.
 
@@ -207,9 +209,9 @@ You might try to dismiss this framing as obfuscating the fact that individuals w
 
 In other words, that societal norms originate in some objective basis.
 
- With this in mind it's physically impossible (without medical/psychological intervention) for those with the above conditions to fit in. 
+ With this proposed premise, it's physically impossible (without medical/psychological intervention) for those with the above conditions to fit in to the "objective" societal reality we all live in.
 
-This would be in contrast to societal norms defined in a preferential sense, for example as one might be through religious or historic grounds.
+This would be in contrast to *subjective* societal norms defined in a preferential sense, for example as one might be through religious or historic grounds.
 
 This argument sounds appealing, but again it uses the **majority** state to define what *counts* as mandatory ability in order to fit in.
 
@@ -296,7 +298,7 @@ With this in mind, it's clear that being attracted to the same sex can cause a g
 
 By all standards that apply to other currently prescribed mental illnesses, we see that homosexuality can be modelled to have the same set of factors, deemed severe enough to warrant medical intervention. 
 
-As far as it can be reasoned there is no objective basis to classify autism spectrum disorder a "disorder" while declaring it morally wrong to label homosexuality with the same classification.
+As far as it can be reasoned, there is no objective basis to classify autism spectrum disorder a "disorder" while declaring it morally wrong to label homosexuality with the same classification.
 
 <div class="important-conclusion">
     <p>It can be morally valid to label homosexuality a mental disorder, depending only on the society one is in.</p>
@@ -315,7 +317,7 @@ In Japan for example, it is likely that all criteria required would be met:
 - Subjective experience of harm
 - Involuntary affliction, no choice in your sexual preference
 
-It does not follow logically that Japan should not be permitted to define homosexuality a mental illness and offer voluntary treatment (if such a treatment existed).
+It follows logically that Japan should be permitted to define homosexuality a mental illness and offer voluntary treatment (if such a treatment existed).
 
 Logically we must also conclude that Japan would be morally coherent with western morality to conduct research on consenting adults in an effort to change their sexuality. To state otherwise would be hypocritical in relation to our acts around other mental illnesses.
 
@@ -331,7 +333,7 @@ You might think that this entire discussion is a moot point because we have no m
 
 <a href="/Argumentation.md#-descriptive" class="tag tag-descriptive"></a>
 
-It has long been considered immoral to carry out experiments in changing orientation. No significant scientific research has been carried out since the 1970s. This has the makings of a self-fulfilling prophecy.
+It has long been considered immoral to carry out experiments in changing sexual orientation. No significant scientific research has been carried out since the 1970s. This has the makings of a self-fulfilling prophecy.
 
 The [argument from ignorance](https://en.wikipedia.org/wiki/Argument_from_ignorance) - "since we have not been able to find a method to change sexuality effectively, one must not exist" - is even more preposterous given that research into the topic is effectively banned.
 
@@ -365,7 +367,7 @@ To claim that sexuality is too complex to be meaningfully changed by medication 
 - Flibanserin (Addyi) has randomized controlled trial evidence showing improvement on validated desire and distress measures versus placebo in women with HSDD. [PubMed](https://pubmed.ncbi.nlm.nih.gov/23672269/) 
 - A 2024 systematic review reports evidence that mindfulness-based interventions can be effective for sexual arousal/desire disorders [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC11815347/)
 
-We also see a case of an individual reporting unprecedented homosexual behaviour as a result of power psychotropic medication.[^11]
+We also see a case of an individual reporting unprecedented homosexual attraction as a result of psychotropic medication.[^11]
 
 <div class="important-premise">
 <p>
@@ -383,7 +385,7 @@ This violates one of the highest western moral values, the value of personal aut
 
 This standard is overcome in the case a reasonable adult, with parental/carer responsibility will make the decision on the child's behalf. With the view that if we do not act now, it will be too late to correct the consequences later on.
 
-This is the reasoning being used to justify experimenting on chemically (irreversibly [^12][^13]) transitioning children to a closer approximation of the opposite sex[^14], in order to treat gender dysphoria.
+This is the reasoning being used to justify experimenting on chemically (irreversibly [^12] [^13]) transitioning children to a closer approximation of the opposite sex[^14], in order to treat gender dysphoria.
 
 <div class="important-conclusion">
 <p>

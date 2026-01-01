@@ -31,6 +31,7 @@ body {
     position: sticky;
     top: 0;
     z-index: 1000;
+    font-family: 'Roboto', sans-serif;
 }
 
 .main-nav {
@@ -46,6 +47,7 @@ body {
     font-weight: 700;
     color: white;
     text-decoration: none;
+    font-family: 'Roboto', sans-serif;
 }
 
 .site-title:hover {
@@ -67,6 +69,7 @@ body {
     border-radius: 4px;
     text-decoration: none;
     transition: all 0.3s ease;
+    font-family: 'Roboto', sans-serif;
 }
 
 .nav-links a:hover {

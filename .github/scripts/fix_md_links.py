@@ -15,17 +15,21 @@ def fix_links_in_file(file_path):
     
     original_content = content
     
-    def replace_link(match):
-        text = match.group(1)
-        url = match.group(2)
-        
+    def process_url(url):
+        """Process a URL to replace .md with .html and add /Beliefs/ prefix."""
         # Skip external links (http://, https://, mailto:, etc.)
         if re.match(r'^[a-zA-Z][a-zA-Z0-9+.-]*:', url):
-            return match.group(0)
+            return url
         
-        # Skip anchors
+        # Skip pure anchors
         if url.startswith('#'):
-            return match.group(0)
+            return url
+        
+        # Handle URLs with anchors (e.g., Argumentation.md#-descriptive)
+        anchor = ''
+        if '#' in url:
+            url, anchor = url.split('#', 1)
+            anchor = '#' + anchor
         
         # Replace .md with .html
         if url.endswith('.md'):
@@ -41,10 +45,26 @@ def fix_links_in_file(file_path):
                 # Relative path - make it absolute with /Beliefs
                 url = '/Beliefs/' + url
         
-        return f'[{text}]({url})'
+        return url + anchor
+    
+    def replace_markdown_link(match):
+        text = match.group(1)
+        url = match.group(2)
+        processed_url = process_url(url)
+        return f'[{text}]({processed_url})'
+    
+    def replace_html_link(match):
+        before = match.group(1)  # Everything before the URL (includes opening quote)
+        url = match.group(2)
+        after = match.group(3)  # Everything after the URL (includes closing quote)
+        processed_url = process_url(url)
+        return f'{before}{processed_url}{after}'
     
     # Replace all markdown links [text](url)
-    content = re.sub(r'\[([^\]]+)\]\(([^)]+)\)', replace_link, content)
+    content = re.sub(r'\[([^\]]+)\]\(([^)]+)\)', replace_markdown_link, content)
+    
+    # Replace all HTML anchor href attributes
+    content = re.sub(r'(<a\s+[^>]*href=")([^"]+)("(?:[^>]*)>)', replace_html_link, content)
     
     if content != original_content:
         with open(file_path, 'w', encoding='utf-8') as f:
@@ -61,7 +81,7 @@ def main():
     # Process all markdown files
     for md_file in Path('.').rglob('*.md'):
         # Skip excluded directories
-        if any(part in str(md_file) for part in ['_site', 'node_modules', '.github', 'utils']):
+        if any(part in str(md_file) for part in ['_site', 'node_modules', '.github', 'utils', 'vendor']):
             continue
         fix_links_in_file(md_file)
     

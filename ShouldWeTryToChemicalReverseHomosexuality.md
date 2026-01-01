@@ -385,7 +385,7 @@ This violates one of the highest western moral values, the value of personal aut
 
 This standard is overcome in the case a reasonable adult, with parental/carer responsibility will make the decision on the child's behalf. With the view that if we do not act now, it will be too late to correct the consequences later on.
 
-This is the reasoning being used to justify experimenting on chemically (irreversibly [^12] [^13]) transitioning children to a closer approximation of the opposite sex[^14], in order to treat gender dysphoria.
+This is the reasoning being used to justify experimenting on chemically (irreversibly[^12][^13]) transitioning children to a closer approximation of the opposite sex[^14], in order to treat gender dysphoria.
 
 <div class="important-conclusion">
 <p>

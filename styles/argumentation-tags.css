@@ -182,7 +182,6 @@
 }
 
 .tag::after {
-    content: attr(data-tooltip);
     position: absolute;
     bottom: 125%;
     left: 50%;

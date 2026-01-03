@@ -35,7 +35,7 @@ For this argument I will take this general definition of equality taken from [Br
 
 The end goal of equality would be equal opportunity for all. Essentially no biases to involuntary or immutable states would affect someone's life. That may include Race, Sex, Sexuality, Appearance, Height, Weight, Age.
 
-Essentially allowing a person's merit and ability be the sole determinant of their success.
+Allowing a person's merit and ability be the sole determinant of their success.
 
 Defined as a function `Deserved success = Merit`.
 
@@ -49,7 +49,7 @@ I will define equity by the top definition returned by [Google](https://www.goog
 
 Equity is the pursuit of balancing outcomes by taking into consideration a person's personal circumstances and history and adjusting outcomes accordingly.
 
-Defined as a function `Deserved success = Merit + Disadvantages cost`
+Defined as a function `Deserved success = Merit + Disadvantages coefficient`
 
 ## Equality vs Equity
 
@@ -92,9 +92,9 @@ Even those who simply ask questions can be considered wise and society can be co
 ## What about those who produce nothing?
 Some people achieve far more success than it seems they rightly deserve. 
 
-This is a key distinction that must be made. Merit is not equal to success. The society we live in is **not** a meritocracy (nor is any). It is important that we do not conflate the two. The fact there merit is not the only factor that goes into someone's success does not mean that the concept of merit itself is not objective. 
+This is a key distinction that must be made. Merit is not equal to success. The society we live in is **not** a meritocracy (nor is any). It is important that we do not conflate the two. The fact their merit is not the only factor that goes into their success does not mean that the concept of merit itself is not objective. 
 
-Precisely the reason you are likely asking this question is that you don't believe those people who have no merit deserve the success they have attained. This shows you that you have an intuitive idea of what merit is and that it is distinct from the outcomes an individual experiences.
+Precisely the reason you are likely asking this question is that you don't believe those people deserve the success they have attained relative to their merit. This shows you that you have an intuitive idea of what merit is and that it is distinct from the outcomes an individual experiences.
 
 ## What is it to deserve success?
 The key point to clarify here is how one defines the word "deserve". How is a supermodel *deserving* of fame and riches, simply for existing with a body fitting a particular set of dimensions?
@@ -136,7 +136,7 @@ In this sense we might be able to more objectively base our judgments about the 
 Let's consider two scenarios.
 
 **Drug king pin**
-The widgets in the above scenario are packets of heroin. Heroin is well known to cause immense damage to humans. There is no argument that producing packets of heroin is a moral negative action.
+The widgets in the above scenario are packets of heroin. Heroin is well known to cause immense damage to humans. There is no argument that producing packets of heroin is a not morally negative action.
 
 By this logic we can calculate that his contribution to society is less than 0.
 
@@ -166,23 +166,22 @@ The fact the man in both scenarios had more potential than any human on earth is
 In a human world, meritocracy can never exist. There are too many random elements that mean those with the most merit will necessarily not get the success they deserve due to effects outside societal control.
 
 Think of
-- Natural disasters
+
 - Bad actors
 - Natural human biases
 - Bad luck
 
 The world and humans are not compatible with a true meritocracy, however, we should not allow perfection to be the enemy of the good. 
-
-Our goal is to maximise the positive outcomes for society, we will never reach the theoretical peak an omniscient being could achieve. With this in mind, we need to evaluate if meritocracy (or rather the pursuit of it) will actually produce the best outcomes in society.
+Our goal (according to the framework) is to maximise the positive outcomes for society, we will never reach the theoretical peak an omniscient being could achieve. With this in mind, we need to evaluate if meritocracy (or rather the pursuit of it) will actually produce the best outcomes in society.
 
 <div class="important-premise">
 <p>We can pursue meritocracy even knowing we will never achieve perfection.</p>
 </div>
 
 ## Human coordination systems
-A frequent mistake I see online is that people try to compare \[current societal system\] to an imaginary utopia, and pointing out all the places where the current system comes up short. This is a false comparison. Your options are not utopia or some other inferior system, your options are the available systems that can be implemented in any particular place.
+A frequent mistake I see online is that people try to compare \[current societal system\] to an imaginary utopia, and pointing out all the places where the current system comes up short. This is a false comparison. Your options are not utopia or some other inferior system. Your options are the available systems that can be implemented in any particular place.
 
-Even among the societal systems we have, not all can just be plugged into a society at will. The humans within the group you are trying to organise must be compatible with the system. Think of the humans as the hardware, and the societal system as the software that runs on top of it.
+Even among the societal systems we know of, not all can just be plugged into a society at will. The humans within the group you are trying to organise must be compatible with the system. Think of the humans as the hardware, and the societal system as the software that runs on top of it.
 
 ### Capitalism
 
@@ -194,7 +193,7 @@ Capitalism requires[^1]
 - A stable currency
 - A government capable of enforcing the above
 
-If a business owner can simply set fire to their competitors, capitalism cannot exist. If the government only allows one single business to produce televisions, the price of televisions can be set at whatever that business wants.
+If a business owner can simply set fire to their competitors, capitalism cannot exist. If the government only allows one single business to produce televisions, the price of televisions can be set at whatever that business wants. This is a monopoly which is must be prevented for capitalism to work.
 
 ### Democracy
 
@@ -234,7 +233,7 @@ Meritocracy fails all the time due to human factors like prejudice, bias, and ne
 
 Given humans are born with involuntary biases and nepotism is almost entirely unavoidable, how can we ever have meritocracy? 
 
-Just as with capitalism, to achieve the beneficial outcomes of the system, we must put systems in place to minimise these deleterious influences.
+Just as with capitalism, to achieve the beneficial outcomes of the system, we must put safeguards in place to minimise these deleterious influences.
 
 <div class="important-premise">
 <p>Like all society management systems, meritocracy needs strict guard rails to remain effective.</p>

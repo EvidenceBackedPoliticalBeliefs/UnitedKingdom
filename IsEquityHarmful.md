@@ -246,7 +246,7 @@ Meritocracy, when perfectly implemented, is the fastest way to achieve the goals
 If the goal of a society is to destroy as many rival groups as possible, meritocracy will achieve the most destructive weapons, as quickly as possible. If the goal is to accumulate as much wealth by taking advantage of all others, meritocracy will extract wealth faster than any other system.
 
 <div class="important-premise">
-<p>Meritocracy does not infer any moral direction, merely an efficient way to achieve an end goal.</p>
+<p>Meritocracy does not infer any moral direction, merely the most efficient way to achieve an end goal.</p>
 </div>
 
 ## Efficient use of scarce resources
@@ -307,7 +307,7 @@ People are hard to predict
 The benefit of meritocracy is that it aligns fairly well with our intuitive moral judgments. We see it as fair that people are rewarded based on the value they bring. We see it as unfair when certain people are rewarded arbitrarily more for the same work.
 
 # How would an equity based system work?
-Generally the implementation of equity involves trying to offset the merit calculations to include several other non merit factors.
+Generally the implementation of equity involves trying to offset the merit calculations to include several other non merit factors. The goal is to start from meritocracy, then modify the merit by some sort of disadvantage coefficient. The most comprehensive equity system you'll likely find right now in the world would consider all the following factors.
 
 - Systemic discrimination
 - Socioeconomic inequalities
@@ -365,9 +365,227 @@ This type of analysis is used to override outcomes that would normally be based 
 - Access to legal aid and public defenders
 - Immigration relief programs and integration services
 
+## Example of vaccine program
+TODO: CITE VACCINE DEATH RATE
 
+## Necessary loss of efficiency
+As we saw in the computer simulation, we are exchanging society level efficiency for a perceived sense of fairness. The questions that advocates of equity need to answer are:
+
+- Is the loss of societal progress and efficiency worth the gain in fairness.
+- By what metric do we judge fairness?
+- Who determines what factors are included?
+- Sweeping generalizations based on intrinsic attributes necessarily create unfairness
+- How long until the disadvantage is compensated for?
+- Could we compensate in other ways? Reparations?
+
+# What problem are we trying to solve?
+With an understanding of the meritocratic system, we can now see why we need to have some sort of controls in order to compensate for human failings in the implementation.
+
+There are two classes of problems that we may want to correct for:
+
+1. Human biases
+2. Bad luck
+
+## Human biases
+Humans are riddled with biases, we are completely unable to think objectively about pretty much anything. A true meritocracy requires objective standards and objective measures of merit. Cheating the system by hiring an unqualified friend for a position in a business you work for reduces efficiency dramatically. Appointing people to positions of authority by excluding particular races or sexes reduces efficiency of the system.
+
+### Effective controls
+
+Controls must be implemented to prevent biases reducing the accuracy of the merit assessment. Here are some examples of controls that increase the likelihood that merit is used as the deciding factor.
+
+- Blind hiring processes
+- Standardized evaluation criteria and scoring rubrics
+- Structured interviews with predetermined questions
+- Independent review or audit of decisions
+- Clear documentation and justification requirements for decisions
+- Separation of decision-making authority (no single gatekeeper)
+- Rotation of evaluators to prevent entrenched favoritism
+- Use of objective performance metrics
+
+An important consideration is that the administration of these controls detracts from the efficiency of the society, so a balancing calculation must be considered to assure that the cost of the controls does not exceed the productivity gained.
+
+The above controls align fairly well with our moral intuitions. They are seen as fair because we intuitively believe people should be judged in a uniform way. 
+
+These controls are generally uncontroversial because they are simply tools to help determine more accurately who is most deserving of success by trying to increase accuracy on their merit.
+
+<div class="important-premise">
+<p>Controls can be implemented to improve merit assessment accuracy.</p>
+</div>
+
+### Ineffective controls
+Some controls that are commonly implemented that I will argue **do not** improve efficiency, they have either no effect, or simply skew results towards one group or another.
+
+- Diverse hiring and promotion panels
+- Bias-awareness and calibration training
+- Equality monitoring (relative percentages of immutable characteristics)
+- Guaranteed interview schemes
+- Bias audits of hiring outcomes
+- Gender pay gap reporting
+- Mandatory diversity targets or quotas
+- Post-hoc demographic reweighting of outcomes
+- Veto power granted to non-evaluating stakeholders
+- Appeals processes based solely on demographic disparity
+
+#### 
+
+## Bad luck
+
+Bad luck can be used as a blanket term for any aspect of your life you had no conscious control over. This sounds like a reasonable definition, but it has serious flaws I will get into further on. Factors generally included in the bad luck category are:
+
+- Race
+- Sex
+- Ethnicity
+- Nationality or country of birth
+- Family socioeconomic status at birth
+- Parental education level
+- Neighbourhood you grew up in
+- Access to early childhood education
+- Quality of primary and secondary schooling
+- Health conditions present at birth
+- Physical or cognitive disabilities
+- Early-life trauma or instability
+
+## Calculating the disadvantage coefficient
+Let's assume for now that these were the only factors that could possibly disadvantage a person for simplicity. We need to determine if these could ever be implemented fairly.
+
+### Race
+To apply the race coefficient we have to determine the disadvantage for each particular race and then calculate the offset. Necessarily the race coefficient is the definition of racist stereotyping.
+
+> A stereotype is a generalized belief about a particular category of people
+> Wikipedia
+
+Even when used for theoretically noble ends, stereotyping is stereotyping. The purpose for which you are stereotyping does not change any of the flawed reasoning around stereotyping.
+
+If you want to know the problems with racist stereotyping, simply google it and you find a litany of problems. I will not re-iterate that here. I will simply discuss a few. 
+
+#### Which races?
+Generally these policies are often implemented by creating two categories:
+
+- White
+- Non-white
+
+This is due to a political assumption that everyone non-white is equally disadvantaged by racism. This is simply not true.
+
+ Not only are there specific non-white racial groups that are clearly not affected by racism to anywhere near the same level as other non-white groups.  \[CITATION]
+
+Even groups with the same skin colour have wildly varying levels of success. \[CITATION]
+
+### Individuals exist
+The problem with generalising on simplistic categories like race and sex is that there is always larger individual variability in a group, than between groups. 
+
+Put another way, there could be the most disadvantaged white man, born in the poorest most abusive environment. Compared with a black woman born into immense family wealth, never experiencing racism in her life.
+
+Even if the group as a whole experienced one or more average disadvantages, the individual details are far more important when making individual decisions. This is precisely the reason it is considered harmful to use racist stereotypes to make decisions in life.
+
+### How do we objectively calculate disadvantage?
+If we assume that there are no individual experiences, we have to then calculate the biases for each specific group. We would generally turn to scientists and statisticians to figure it all out.
+
+This is where things start to get messy. When we actually look at statistical analyses on race based outcomes it is far from a simple white vs non-white dichotomy.
+
+> Finds that second-generation Nigerian Americans have especially high educational attainment compared with other second-generation Black groups in the U.S
+https://journals.sagepub.com/doi/10.1177/23780231211001971?utm_source=chatgpt.com
+
+>Pew Research Center: Black immigrants vs U.S.-born Black Americans (descriptive, high-quality)
+> Reports higher median household income for Black immigrant-headed households than U.S.-born Black households (2019)
+
+This is just one example that shows a theoretical blanket race based coefficient is simply inadequate.
+We would need to have a race discrimination rank table to make a fair assessment.
+
+| Group                                              | Coefficient |
+| -------------------------------------------------- | ----------: |
+| Black American (African American)                  |     **8.0** |
+| Black Caribbean (e.g., Jamaican, Haitian)          |     **7.5** |
+| Black African Immigrant (e.g., Nigerian, Ghanaian) |     **7.0** |
+| Afro-Latino / Afro-Hispanic                        |     **7.0** |
+| Native American / Alaska Native                    |     **6.5** |
+| Hispanic / Latino (overall)                        |     **5.5** |
+| Asian American (overall)                           |     **5.0** |
+| Middle Eastern / North African (MENA)              |     **4.8** |
+| White Hispanic                                     |     **3.5** |
+| White (non-Hispanic)                               |     **2.0** |
+
+### Country or area
+Some areas have a racial split completely reversed to the majority in a particular country. In these areas the white individuals are the minority. If we apply a country level coefficient this will necessarily lead to traditional racist discrimination of white people. 
+
+To those individual whites in the area their perception is that they are subject to system racial discrimination.
+
+The question then becomes, how do we define: area. If a white man is in a town that is 90% black, with town level policies that disadvantage him, is that fair?
+
+So now we see we need to incorporate geographic data into our coefficient map.
+
+| Area (example)                                     | Level        |   White |   Black | Hispanic/Latino |   Asian |
+| -------------------------------------------------- | ------------ | ------: | ------: | --------------: | ------: |
+| United States (national baseline)                  | Country      |     2.0 |     8.0 |             5.5 |     5.0 |
+| State X (overall)                                  | State        |     2.5 |     7.5 |             5.8 |     4.7 |
+| Metro A (diverse, mixed power)                     | County/Metro |     3.0 |     6.5 |             5.5 |     5.2 |
+| Town B (90% Black; local disadvantage for White)   | Municipality | **6.5** |     4.5 |             5.0 |     4.8 |
+| Town C (80% White; exclusionary local effects)     | Municipality |     2.0 | **8.5** |         **7.0** |     5.5 |
+| Neighborhood D (gentrifying; enforcement-driven)   | Census tract |     3.5 | **7.8** |         **7.2** |     5.6 |
+| Neighborhood E (affluent enclave; access barriers) | Census tract |     2.0 | **8.0** |         **7.5** |     4.8 |
+| Campus / Tech zone F (network-driven bias)         | District     |     2.8 |     5.8 |             5.0 | **6.2** |
+
+### What is discrimination?
+Now the task is becoming more and more complex, we still have the problem of being able to measure any particular individual's rate of discrimination.
+
+Scientists use several techniques to try to determine levels of discrimination. One such technique is to simply ask the individual if they think they have experienced racial discrimination.
+
+These polls are then often used to claim bold conclusions about the rates of discrimination across a particular country. 
+
+The fundamental problem is that it has been shown that those who are told they can expect to be discriminated against, perceive discrimination where there is none. \[CITATON TO STUDY]
+
+There are outcome based statistical analyses that are used to determine if discrimination exists, but these are often done in aggregate at country level, and don't take into account sub-cultural effects that might influence results. If one culture values education more than another, is it fair to claim that outcome differences are due to racism?
+
+<div class="important-premise">
+<p>Measuring discrimination is hard at best.</p>
+</div>
+
+### Intersectionality
+
+Intersectionality is the idea that many different disadvantaging characteristics come together to dramatically increase a person's overall disadvantage coefficient. This could be itself with an adjustment factor. For example, it may be that being a woman & black leads to a higher coefficient than the individual disadvantages of being a woman or black.
+
+| Characteristic          | Coefficient |
+| ----------------------- | ----------: |
+| Neither woman nor Black |         2.0 |
+| Woman only              |         4.0 |
+| Black only              |         8.0 |
+| **Woman & Black**       |    **10.0** |
+
+### Comparative disadvantage
+On top of intersectionality, we now need to compare oranges to apples. How disadvantaging is being disabled to being of a minority race? If I am missing an arm, is that equivalent to being black in a majority white country? What about two arms? Who decides this?
+
+What objective data could we use to make this determination?
+
+At some point we start to enter the disadvantage olympics.
+
+<div class="important-premise">
+<p>Comparing disadvantage categories is hard at best.</p>
+</div>
+
+## The magnitude of the problem
+The gargantuan task is beginning to unfold. This was an exploration of 3 factors, sex, race, disability. I hope that it is clear by now that we can never hope to generate sufficiently complex or accurate enough coefficient tables to come anywhere close to being fair. Let alone the fact that the majority of these systems are applied without any consideration to the local demographics involved.
+
+This generally leads to systemic discrimination of large swathes of people. This is both unfair and detrimental to the societal efficiency. We will compound our efficiency losses, while at the same time reducing the overall fairness.
+
+<div class="important-premise">
+<p>Coefficient tables could never come close to being fair, even with simplistic categories.</p>
+</div>
+
+## Perverse incentives
+An interesting phenomenon begins to occur once you begin applying disadvantage coefficients. Everyone suddenly starts getting a lot more disadvantaged.
+
+This is known as a perverse incentive.
+
+# Other forms of bad luck
+In addition to the above commonly used classifications, there are many serious detriments to success that don't factor in to anyone's idea of equity. The primary criteria for choosing the disadvantage characteristics is mostly political. 
+
+Assuming for now, we could achieve a 100% fair coefficient map, that takes into consideration intersectionality. We have to still come to an agreement about what factors actually go into the map.
+
+So if we were to design a fair coefficient map what else might we include?
+
+### Attractiveness
+### Temperament
+### other stuff todo
 
 ## Harms those who would benefit through lost trust
-## Democracy makes this even worse
 
 [^1]: There are many more requirements these are just as an illustrative example of the point.

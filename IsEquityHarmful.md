@@ -120,13 +120,15 @@ Many negative feelings stem from a collision between the complexity of all moder
 ## Scale and our moral intuitions
 Imagine a man owns a company that manufactures widgets. He mostly works by hand producing around 100 widgets per day, and sells them for around £1 per widget.
 
-This scenario very easy for us to hold in our minds, we can imagine carrying out 100 tasks in a day, we often do this in our own lives. It seems fair that he earns the money he earns for the work he did. He produced a hundred pounds of value and earned every pound of it.
+This scenario very easy for us to hold in our minds, we can imagine carrying out 100 tasks in a day, we often do this in our own lives. 
+
+It seems fair that he earns the money he earns for the work he did. He produced a hundred pounds of value and earned every pound of it.
 
 Now imagine he is the owner of a company that produces 1 million widgets a day for the same price. This is where the moral intuition starts to fail, because we can't imagine someone working *hard* enough to deserve 1 million pounds a day.
 
 This moral incongruence exists because our intuitions are not designed to handle scale of this magnitude. It's possible that society is so much better off because this man produces 1 million widgets per day that he *deserves* mathematically the payment he receives.
 
-The nature of the man's work also compounds this effect, because previously his work involved physical action primarily. In the larger business it necessarily involves mostly knowledge work, work that is merely of words and decisions.
+The nature of the man's work also compounds this effect. Previously his work involved physical action. In the larger business it necessarily involves mostly knowledge work, work that is merely of words and decisions.
 
 ## How to resolve this moral incongruence?
 Similar to the moral foundation described in the [framework](https://evidencebasedpolitics.org/README.html), when evaluating a person's merit, we must develop an objective mathematical function to calculate their total positive value to society.
@@ -136,7 +138,7 @@ In this sense we might be able to more objectively base our judgments about the 
 Let's consider two scenarios.
 
 **Drug king pin**
-The widgets in the above scenario are packets of heroin. Heroin is well known to cause immense damage to humans. There is no argument that producing packets of heroin is a not morally negative action.
+The widgets in the above scenario are packets of heroin. Heroin is well known to cause immense harm to society. There is no argument that producing packets of heroin is a morally negative action.
 
 By this logic we can calculate that his contribution to society is less than 0.
 
@@ -152,18 +154,18 @@ Both jobs are exactly the same. The man is carrying out exactly the same "work" 
 ## What about human potential?
 A concept that is often spoken of in schools, is the idea of "potential". Potential has a net-zero value to society. 
 
-If we put the smartest man in the universe in an empty white room for his entire life, the man would produce exactly zero benefit to society. 
+If we put the smartest man on earth in an empty white room for his entire life, the man would produce exactly zero benefit to society. 
 
 If the smartest man on earth was also born without empathy, and decided that the best course of action for himself was to live a life of crime, he would produce a net negative value to society.
 
-The fact the man in both scenarios had more potential than any human on earth is completely irrelevant to the merit of the individual.
+The fact the man in both scenarios had more potential than any other human on earth is completely irrelevant to the merit of the individual.
 
 <div class="important-premise">
 <p>A person's "potential" has no bearing on their contribution to society, and hence no bearing on their merit.</p>
 </div>
 
 # Meritocracy
-In a human world, meritocracy can never exist. There are too many random elements that mean those with the most merit will necessarily not get the success they deserve due to effects outside societal control.
+In a human world, meritocracy can never exist. There are too many random elements that mean those with the most merit cannot always get the success they deserve due to effects outside societal control.
 
 Think of
 
@@ -179,6 +181,7 @@ Our goal (according to the framework) is to maximise the positive outcomes for s
 </div>
 
 ## Human coordination systems
+
 A frequent mistake I see online is that people try to compare \[current societal system\] to an imaginary utopia, and pointing out all the places where the current system comes up short. This is a false comparison. Your options are not utopia or some other inferior system. Your options are the available systems that can be implemented in any particular place.
 
 Even among the societal systems we know of, not all can just be plugged into a society at will. The humans within the group you are trying to organise must be compatible with the system. Think of the humans as the hardware, and the societal system as the software that runs on top of it.
@@ -302,11 +305,13 @@ We can't just execute non productive people
 People can increase in productivity over time
 People are hard to predict
 
+societal stability is an important consideration TODO
+
 ## Alignment with intuitive morality
-The benefit of meritocracy is that it aligns fairly well with our intuitive moral judgments. We see it as fair that people are rewarded based on the value they bring. We see it as unfair when certain people are rewarded arbitrarily more for the same work.
+The benefit of meritocracy is that it aligns fairly well with our intuitive moral judgments. We see it as fair that people are rewarded based on the value they bring. We see it as unfair when certain people are rewarded arbitrarily more for the same societal contribution.
 
 # How would an equity based system work?
-Generally the implementation of equity involves trying to offset the merit calculations to include several other non merit factors. The goal is to start from meritocracy, then modify the merit by some sort of disadvantage coefficient. The most comprehensive equity system you'll likely find right now in the world would consider all the following factors.
+Generally the implementation of equity involves trying to offset the merit calculations to include several other non merit factors. The goal is to start with meritocracy, then modify the merit by some sort of *disadvantage coefficient*. The most comprehensive equity system you'll likely find right now in the world would consider all the following factors.
 
 - Systemic discrimination
 - Socioeconomic inequalities
@@ -373,12 +378,12 @@ As we saw in the computer simulation, we are exchanging society level efficiency
 - Is the loss of societal progress and efficiency worth the gain in fairness.
 - By what metric do we judge fairness?
 - Who determines what factors are included?
-- Sweeping generalizations based on intrinsic attributes necessarily create unfairness
+- Sweeping generalizations based on intrinsic attributes necessarily create unfairness TODO
 - How long until the disadvantage is compensated for?
-- Could we compensate in other ways? Reparations?
+- Could we compensate in other ways?
 
 # What problem are we trying to solve?
-With an understanding of the meritocratic system, we can now see why we need to have some sort of controls in order to compensate for human failings in the implementation.
+With an understanding of the meritocratic system, we can now see why we need to have some kinf of controls in order to compensate for human failings in the implementation.
 
 There are two classes of problems that we may want to correct for:
 
@@ -386,7 +391,11 @@ There are two classes of problems that we may want to correct for:
 2. Bad luck
 
 ## Human biases
-Humans are riddled with biases, we are completely unable to think objectively about pretty much anything. A true meritocracy requires objective standards and objective measures of merit. Cheating the system by hiring an unqualified friend for a position in a business you work for reduces efficiency dramatically. Appointing people to positions of authority by excluding particular races or sexes reduces efficiency of the system.
+Humans are riddled with biases, we are completely unable to think objectively about pretty much anything. A true meritocracy requires objective standards and objective measures of merit. 
+
+Cheating the system by hiring an unqualified friend for a position in a business you work for reduces efficiency dramatically. 
+
+Appointing people to positions of authority by excluding particular races or sexes reduces efficiency of the system.
 
 ### Effective controls
 
@@ -401,11 +410,11 @@ Controls must be implemented to prevent biases reducing the accuracy of the meri
 - Rotation of evaluators to prevent entrenched favoritism
 - Use of objective performance metrics
 
-An important consideration is that the administration of these controls detracts from the efficiency of the society, so a balancing calculation must be considered to assure that the cost of the controls does not exceed the productivity gained.
+An important consideration is that the administration of these controls detracts from the efficiency of the society. A balancing calculation must be considered to assure that the cost of the controls does not exceed the productivity gained.
 
 The above controls align fairly well with our moral intuitions. They are seen as fair because we intuitively believe people should be judged in a uniform way. 
 
-These controls are generally uncontroversial because they are simply tools to help determine more accurately who is most deserving of success by trying to increase accuracy on their merit.
+These controls are generally uncontroversial because they are simply tools to help determine more accurately who is most deserving of success by trying to increase accuracy on their merit measurement.
 
 <div class="important-premise">
 <p>Controls can be implemented to improve merit assessment accuracy.</p>
@@ -445,7 +454,7 @@ Bad luck can be used as a blanket term for any aspect of your life you had no co
 - Early-life trauma or instability
 
 ## Calculating the disadvantage coefficient
-Let's assume for now that these were the only factors that could possibly disadvantage a person for simplicity. We need to determine if these could ever be implemented fairly.
+Let's assume for now that these were the only factors that could possibly disadvantage a person, for the sake of simplicity. We need to determine if these could ever be implemented fairly.
 
 ### Race
 To apply the race coefficient we have to determine the disadvantage for each particular race and then calculate the offset. Necessarily the race coefficient is the definition of racist stereotyping.
@@ -455,7 +464,7 @@ To apply the race coefficient we have to determine the disadvantage for each par
 
 Even when used for theoretically noble ends, stereotyping is stereotyping. The purpose for which you are stereotyping does not change any of the flawed reasoning around stereotyping.
 
-If you want to know the problems with racist stereotyping, simply google it and you find a litany of problems. I will not re-iterate that here. I will simply discuss a few. 
+If you want to know the problems with racist stereotyping, simply google it and you find a litany of problems. I will not re-iterate that here. I will simply discuss some logistical questions for anyone attempting to apply such rules.
 
 #### Which races?
 Generally these policies are often implemented by creating two categories:
@@ -470,14 +479,14 @@ This is due to a political assumption that everyone non-white is equally disadva
 Even groups with the same skin colour have wildly varying levels of success. \[CITATION]
 
 ### Individuals exist
-The problem with generalising on simplistic categories like race and sex is that there is always larger individual variability in a group, than between groups. 
+The problem with generalising on simplistic categories like race and sex is that there is always larger variability between individuals  in a group, than between groups. 
 
-Put another way, there could be the most disadvantaged white man, born in the poorest most abusive environment. Compared with a black woman born into immense family wealth, never experiencing racism in her life.
+Put another way, there could be the most disadvantaged white man, born in the poorest most abusive environment. Compared with a black woman born into immense family wealth, never experiencing racism or sexism in her life.
 
-Even if the group as a whole experienced one or more average disadvantages, the individual details are far more important when making individual decisions. This is precisely the reason it is considered harmful to use racist stereotypes to make decisions in life.
+Even if the group as a whole experienced one or more average disadvantages, the individual details are far more important when making individual decisions. This is precisely the reason it's considered harmful to use racist stereotypes to make decisions in life.
 
 ### How do we objectively calculate disadvantage?
-If we assume that there are no individual experiences, we have to then calculate the biases for each specific group. We would generally turn to scientists and statisticians to figure it all out.
+If we assume that there are no individual experiences and we can simply stereotype for the sake of argument. We have to then calculate the biases for each specific group. We would generally turn to scientists and statisticians to figure it all out.
 
 This is where things start to get messy. When we actually look at statistical analyses on race based outcomes it is far from a simple white vs non-white dichotomy.
 
@@ -504,13 +513,13 @@ We would need to have a race discrimination rank table to make a fair assessment
 | White (non-Hispanic)                               |     **2.0** |
 
 ### Country or area
-Some areas have a racial split completely reversed to the majority in a particular country. In these areas the white individuals are the minority. If we apply a country level coefficient this will necessarily lead to traditional racist discrimination of white people. 
+Some areas have a racial split completely reversed to the majority in a particular country. In these areas the white individuals are the minority. If we apply a country level coefficient this will necessarily lead to racist discrimination of white people. 
 
-To those individual whites in the area their perception is that they are subject to system racial discrimination.
+To those individual whites in their area, their (accurate) perception is that they are subject to systemic racial discrimination.
 
-The question then becomes, how do we define: area. If a white man is in a town that is 90% black, with town level policies that disadvantage him, is that fair?
+The question then becomes, how do we define "area". If a white man is in a town that is 90% black, with town level policies that disadvantage him, is that fair? What if he resides in a majority white state, but majority black city? Majority black school? What if the state is 50% black but the elected government for the district is 70% black?
 
-So now we see we need to incorporate geographic data into our coefficient map.
+So now we see we need try to factor all this elements as geographic data into our coefficient map.
 
 | Area (example)                                     | Level        |   White |   Black | Hispanic/Latino |   Asian |
 | -------------------------------------------------- | ------------ | ------: | ------: | --------------: | ------: |
@@ -524,7 +533,7 @@ So now we see we need to incorporate geographic data into our coefficient map.
 | Campus / Tech zone F (network-driven bias)         | District     |     2.8 |     5.8 |             5.0 | **6.2** |
 
 ### What is discrimination?
-Now the task is becoming more and more complex, we still have the problem of being able to measure any particular individual's rate of discrimination.
+Now the task is becoming more and more complex, we still have the uncertainty of actually being able to measure any particular individual's rate of discrimination.
 
 Scientists use several techniques to try to determine levels of discrimination. One such technique is to simply ask the individual if they think they have experienced racial discrimination.
 
@@ -532,7 +541,7 @@ These polls are then often used to claim bold conclusions about the rates of dis
 
 The fundamental problem is that it has been shown that those who are told they can expect to be discriminated against, perceive discrimination where there is none. \[CITATON TO STUDY]
 
-There are outcome based statistical analyses that are used to determine if discrimination exists, but these are often done in aggregate at country level, and don't take into account sub-cultural effects that might influence results. If one culture values education more than another, is it fair to claim that outcome differences are due to racism?
+There are outcome based statistical analyses that are used to determine if discrimination exists, but these are often done in aggregate at country level, and don't take into account sub-cultural effects that might influence results. If one culture values education more than another, is it fair to claim that outcome differences are due to systemic racism?
 
 <div class="important-premise">
 <p>Measuring discrimination is hard at best.</p>
@@ -540,17 +549,21 @@ There are outcome based statistical analyses that are used to determine if discr
 
 ### Intersectionality
 
-Intersectionality is the idea that many different disadvantaging characteristics come together to dramatically increase a person's overall disadvantage coefficient. This could be itself with an adjustment factor. For example, it may be that being a woman & black leads to a higher coefficient than the individual disadvantages of being a woman or black.
+Intersectionality is the idea that many different disadvantaging characteristics come together to dramatically increase a person's overall disadvantage coefficient. This could be more than simple addition would imply. For example, it may be that being a woman & black leads to a higher coefficient than the individual disadvantages of being a woman or black summed together.
 
 | Characteristic          | Coefficient |
 | ----------------------- | ----------: |
 | Neither woman nor Black |         2.0 |
 | Woman only              |         4.0 |
 | Black only              |         8.0 |
-| **Woman & Black**       |    **10.0** |
+| **Woman & Black**       |    **18.0** |
+
+So now we need to consider all the permutations of disadvantage sources and determine coefficents for each permutation.
+
+For example gay black disabled woman from poor background.
 
 ### Comparative disadvantage
-On top of intersectionality, we now need to compare oranges to apples. How disadvantaging is being disabled to being of a minority race? If I am missing an arm, is that equivalent to being black in a majority white country? What about two arms? Who decides this?
+Before we can generate our coefficient tables to compensate for intersectionality, we need  to figure out how to compare oranges to apples. How disadvantaging is being disabled to being of a minority race? If I am missing an arm, is that equivalent to being black in a majority white country? What about two arms? Who decides this?
 
 What objective data could we use to make this determination?
 
@@ -572,7 +585,9 @@ This generally leads to systemic discrimination of large swathes of people. This
 ## Perverse incentives
 An interesting phenomenon begins to occur once you begin applying disadvantage coefficients. Everyone suddenly starts getting a lot more disadvantaged.
 
-This is known as a perverse incentive.
+This is known as a perverse incentive. working for merit alone is actually really hard. this is why many criminals simply choose to commit crime. If an opportunity to gain success without having to increase ones metit arises, individuals seeking to increase their own wellbeing will take it. Within meritocracy the incentives are aligned. Increase in merit by definition means an increase in societal value. If you provide another way that does not align with the goals of society, necessarily some people will maximise their own outcomes to the detriment of society.
+
+example autism diagnoses ToDo
 
 # Other forms of bad luck
 In addition to the above commonly used classifications, there are many serious detriments to success that don't factor in to anyone's idea of equity. The primary criteria for choosing the disadvantage characteristics is mostly political. 
@@ -581,9 +596,21 @@ Assuming for now, we could achieve a 100% fair coefficient map, that takes into 
 
 So if we were to design a fair coefficient map what else might we include?
 
+Race is not actually useful factor to consider at all. race is used as a blunt shortcut for discrimination. So rather than stereotyping an entire race of peoples experience in life. we can choose the first metric to be discrimination. This obviously begs the question we saw above, how do we measure descrimination (short answer its hard to impossible).
+
+
+
 ### Attractiveness
+Attractiveness is a factor that impacts every single person's life in myriad ways. It has been demonstrated over and over that the more attractive you are, the more positive your outcomes will be in nearly all aspects of your life.
+
+I have never heard of a single instance of an ugliness measurement being used in any equity program, but why shouldnt it be? We have concrete evidence of the negative effects of ugliness, it's systemic to the human brain, you cant get much more systemic than that. It affects all races. Its a genetic factor you have no control over.
+
+It seems only fair that we allow for the ugliness disadvantage to push people up.
+
+
 ### Temperament
 ### other stuff todo
+sport stuff
 
 ## Harms those who would benefit through lost trust
 
